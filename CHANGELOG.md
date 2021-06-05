@@ -4,7 +4,7 @@
 
 > Note 2: [`Development`] and [`UI Manager`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
-## [1.0.0]
+## [1.1.158]
 - [`Theme`] Improved `editorBracketMatch` highlight color;
 - [`Development`] Addedd `editorBracketMatch` as independent from automatic colorization keywords;
 - [`Development`] Added Daily / Hourly / Delta foresights to statistics table;
