@@ -4,7 +4,7 @@
 
 > Note 2: [`Development`] and [`UI Manager`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
-## [1.1.159]
+## [1.1.160]
 - [`Development`] Optimized Preview Generator;
 
 ## [1.1.158]
