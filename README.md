@@ -14,6 +14,11 @@ Please do not rely only on the preview images of this theme (they are of average
 
 > Tip: the display name of theme is as follow: the first part (e.g.: **Zenburn**) is token colors name, the second (e.g.: **Dark Matter**) is the main related colors structure, the third (e.g.: **Nadir**) part of name is the background suite and UI main colors, last part (e.g.: **Viserion**) is simply the representation name for main foreground/highlights color.
 
+
+<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+# My Themes
+
 [Try all my themes on Marketplace](https://marketplace.visualstudio.com/search?term=publisher%3A%22Nicola%20Granata%22&target=VSCode&category=Themes&sortBy=Relevance).
 
 - Zenburn Dark Matter
@@ -26,6 +31,7 @@ Please do not rely only on the preview images of this theme (they are of average
 
 
 # Table of contents
+1. [My Themes](#my-themes "My Themes")
 1. [Zenburn token colors based skins](#zenburn-token-colors-based-skins "Zenburn token colors based skins")
 1. [Zenburn Dark Matter Preview Gallery](#zenburn-dark-matter-preview-gallery "Zenburn Dark Matter Preview Gallery")
 	* [**Anthracite** (1 skin): Anthracite Gray Background and Cold, Desatured Token Colors](#anthracite-1-skin-anthracite-gray-background-and-cold-desatured-token-colors "**Anthracite** (1 skin): Anthracite Gray Background and Cold, Desatured Token Colors")
@@ -279,10 +285,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Deep Sea** (5 skins): Deep blue flat UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-sulfur-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Sulfur" target="github"><img src="./_gfx/zenburn-dark-matter-deepsea-sulfur-preview.png"  alt="Zenburn Dark Matter - Deep Sea - Sulfur"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-morion-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Morion" target="github"><img src="./_gfx/zenburn-dark-matter-deepsea-morion-preview.png"  alt="Zenburn Dark Matter - Deep Sea - Morion"></a>
 </center>
 
-<div>Deep Sea - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-sulfur-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Sulfur" target="github">Sulfur</a> 
+<div>Deep Sea - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-morion-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Morion" target="github">Morion</a> 
 </div>
 
 
@@ -290,13 +296,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 <center>
 <table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Aquamarine" target="github"><img src="./_gfx/zenburn-dark-matter-deepsea-aquamarine-preview.png"  alt="Zenburn Dark Matter - Deep Sea - Aquamarine"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-morion-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Morion" target="github"><img src="./_gfx/zenburn-dark-matter-deepsea-morion-preview.png"  alt="Zenburn Dark Matter - Deep Sea - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-deepsea-mystic-river-preview.png"  alt="Zenburn Dark Matter - Deep Sea - Mystic River"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-sulfur-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Sulfur" target="github"><img src="./_gfx/zenburn-dark-matter-deepsea-sulfur-preview.png"  alt="Zenburn Dark Matter - Deep Sea - Sulfur"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-viserion-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Viserion" target="github"><img src="./_gfx/zenburn-dark-matter-deepsea-viserion-preview.png"  alt="Zenburn Dark Matter - Deep Sea - Viserion"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Deep Sea - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Aquamarine" target="github">Aquamarine</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Deep Sea - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-morion-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Deep Sea - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Mystic River" target="github">Mystic River</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Deep Sea - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-sulfur-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Sulfur" target="github">Sulfur</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Deep Sea - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-deepsea-viserion-preview.png" title="Go to Zenburn Dark Matter - Deep Sea - Viserion" target="github">Viserion</a> 
 </td></tr>
 
@@ -339,10 +345,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Equinox** (10 skins): Dark Night UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-kronos-preview.png" title="Go to Zenburn Dark Matter - Equinox - Kronos" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-kronos-preview.png"  alt="Zenburn Dark Matter - Equinox - Kronos"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-klimt-preview.png" title="Go to Zenburn Dark Matter - Equinox - Klimt" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-klimt-preview.png"  alt="Zenburn Dark Matter - Equinox - Klimt"></a>
 </center>
 
-<div>Equinox - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-kronos-preview.png" title="Go to Zenburn Dark Matter - Equinox - Kronos" target="github">Kronos</a> 
+<div>Equinox - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-klimt-preview.png" title="Go to Zenburn Dark Matter - Equinox - Klimt" target="github">Klimt</a> 
 </div>
 
 
@@ -351,13 +357,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 <table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Equinox - Black Pond Has My Heart" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png"  alt="Zenburn Dark Matter - Equinox - Black Pond Has My Heart"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-burn-preview.png" title="Go to Zenburn Dark Matter - Equinox - Burn" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-burn-preview.png"  alt="Zenburn Dark Matter - Equinox - Burn"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-klimt-preview.png" title="Go to Zenburn Dark Matter - Equinox - Klimt" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-klimt-preview.png"  alt="Zenburn Dark Matter - Equinox - Klimt"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-komodo-preview.png" title="Go to Zenburn Dark Matter - Equinox - Komodo" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-komodo-preview.png"  alt="Zenburn Dark Matter - Equinox - Komodo"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-kronos-preview.png" title="Go to Zenburn Dark Matter - Equinox - Kronos" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-kronos-preview.png"  alt="Zenburn Dark Matter - Equinox - Kronos"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Equinox - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-burn-preview.png" title="Go to Zenburn Dark Matter - Equinox - Burn" target="github">Burn</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-klimt-preview.png" title="Go to Zenburn Dark Matter - Equinox - Klimt" target="github">Klimt</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-komodo-preview.png" title="Go to Zenburn Dark Matter - Equinox - Komodo" target="github">Komodo</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-kronos-preview.png" title="Go to Zenburn Dark Matter - Equinox - Kronos" target="github">Kronos</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-meabh-preview.png" title="Go to Zenburn Dark Matter - Equinox - Meabh" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-meabh-preview.png"  alt="Zenburn Dark Matter - Equinox - Meabh"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-equinox-moai-preview.png" title="Go to Zenburn Dark Matter - Equinox - Moai" target="github"><img src="./_gfx/zenburn-dark-matter-equinox-moai-preview.png"  alt="Zenburn Dark Matter - Equinox - Moai"></a>
@@ -381,10 +387,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Flat** (13 skins): Flat Gray Background and Default Token Colos
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-obsidian-preview.png" title="Go to Zenburn Dark Matter - Flat - Obsidian" target="github"><img src="./_gfx/zenburn-dark-matter-flat-obsidian-preview.png"  alt="Zenburn Dark Matter - Flat - Obsidian"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Flat - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png"  alt="Zenburn Dark Matter - Flat - Mystic River"></a>
 </center>
 
-<div>Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-obsidian-preview.png" title="Go to Zenburn Dark Matter - Flat - Obsidian" target="github">Obsidian</a> 
+<div>Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Flat - Mystic River" target="github">Mystic River</a> 
 </div>
 
 
@@ -412,12 +418,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-moai-preview.png" title="Go to Zenburn Dark Matter - Flat - Moai" target="github">Moai</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-morion-preview.png" title="Go to Zenburn Dark Matter - Flat - Morion" target="github"><img src="./_gfx/zenburn-dark-matter-flat-morion-preview.png"  alt="Zenburn Dark Matter - Flat - Morion"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Flat - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png"  alt="Zenburn Dark Matter - Flat - Mystic River"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-obsidian-preview.png" title="Go to Zenburn Dark Matter - Flat - Obsidian" target="github"><img src="./_gfx/zenburn-dark-matter-flat-obsidian-preview.png"  alt="Zenburn Dark Matter - Flat - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-sulfur-preview.png" title="Go to Zenburn Dark Matter - Flat - Sulfur" target="github"><img src="./_gfx/zenburn-dark-matter-flat-sulfur-preview.png"  alt="Zenburn Dark Matter - Flat - Sulfur"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-viserion-preview.png" title="Go to Zenburn Dark Matter - Flat - Viserion" target="github"><img src="./_gfx/zenburn-dark-matter-flat-viserion-preview.png"  alt="Zenburn Dark Matter - Flat - Viserion"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-morion-preview.png" title="Go to Zenburn Dark Matter - Flat - Morion" target="github">Morion</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Flat - Mystic River" target="github">Mystic River</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-obsidian-preview.png" title="Go to Zenburn Dark Matter - Flat - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-sulfur-preview.png" title="Go to Zenburn Dark Matter - Flat - Sulfur" target="github">Sulfur</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-flat-viserion-preview.png" title="Go to Zenburn Dark Matter - Flat - Viserion" target="github">Viserion</a> 
 </td></tr>
@@ -429,10 +435,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Insomnia** (9 skins): Flat Grayed UI and Satured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png"  alt="Zenburn Dark Matter - Insomnia - Mystic River"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-burn-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Burn" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-burn-preview.png"  alt="Zenburn Dark Matter - Insomnia - Burn"></a>
 </center>
 
-<div>Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Mystic River" target="github">Mystic River</a> 
+<div>Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-burn-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Burn" target="github">Burn</a> 
 </div>
 
 
@@ -440,22 +446,22 @@ However, attempts were made to leave error signals and selections clearly visibl
 <center>
 <table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Black Pond Has My Heart" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-black-pond-has-my-heart-preview.png"  alt="Zenburn Dark Matter - Insomnia - Black Pond Has My Heart"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-burn-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Burn" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-burn-preview.png"  alt="Zenburn Dark Matter - Insomnia - Burn"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-komodo-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Komodo" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-komodo-preview.png"  alt="Zenburn Dark Matter - Insomnia - Komodo"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-kronos-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Kronos" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-kronos-preview.png"  alt="Zenburn Dark Matter - Insomnia - Kronos"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-meabh-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Meabh" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png"  alt="Zenburn Dark Matter - Insomnia - Meabh"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-burn-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Burn" target="github">Burn</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-komodo-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-kronos-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Kronos" target="github">Kronos</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-meabh-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Meabh" target="github">Meabh</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-meabh-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Meabh" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png"  alt="Zenburn Dark Matter - Insomnia - Meabh"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-moai-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Moai" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-moai-preview.png"  alt="Zenburn Dark Matter - Insomnia - Moai"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-moai-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Moai" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-moai-preview.png"  alt="Zenburn Dark Matter - Insomnia - Moai"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png"  alt="Zenburn Dark Matter - Insomnia - Mystic River"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-obsidian-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Obsidian" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-obsidian-preview.png"  alt="Zenburn Dark Matter - Insomnia - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-viserion-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Viserion" target="github"><img src="./_gfx/zenburn-dark-matter-insomnia-viserion-preview.png"  alt="Zenburn Dark Matter - Insomnia - Viserion"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-meabh-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Meabh" target="github">Meabh</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-moai-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Moai" target="github">Moai</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-moai-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Moai" target="github">Moai</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Mystic River" target="github">Mystic River</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-obsidian-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-insomnia-viserion-preview.png" title="Go to Zenburn Dark Matter - Insomnia - Viserion" target="github">Viserion</a> 
 </td></tr>
@@ -507,10 +513,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Nadir** (14 skins): Flat Grayed UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nadir - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-mystic-river-preview.png"  alt="Zenburn Dark Matter - Nadir - Mystic River"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Nadir - Aquamarine" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-aquamarine-preview.png"  alt="Zenburn Dark Matter - Nadir - Aquamarine"></a>
 </center>
 
-<div>Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nadir - Mystic River" target="github">Mystic River</a> 
+<div>Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Nadir - Aquamarine" target="github">Aquamarine</a> 
 </div>
 
 
@@ -518,32 +524,32 @@ However, attempts were made to leave error signals and selections clearly visibl
 <center>
 <table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-alcatraz-preview.png" title="Go to Zenburn Dark Matter - Nadir - Alcatraz" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-alcatraz-preview.png"  alt="Zenburn Dark Matter - Nadir - Alcatraz"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Nadir - Aquamarine" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-aquamarine-preview.png"  alt="Zenburn Dark Matter - Nadir - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Nadir - Black Pond Has My Heart" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-black-pond-has-my-heart-preview.png"  alt="Zenburn Dark Matter - Nadir - Black Pond Has My Heart"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-burn-preview.png" title="Go to Zenburn Dark Matter - Nadir - Burn" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-burn-preview.png"  alt="Zenburn Dark Matter - Nadir - Burn"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-klimt-preview.png" title="Go to Zenburn Dark Matter - Nadir - Klimt" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-klimt-preview.png"  alt="Zenburn Dark Matter - Nadir - Klimt"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-alcatraz-preview.png" title="Go to Zenburn Dark Matter - Nadir - Alcatraz" target="github">Alcatraz</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Nadir - Aquamarine" target="github">Aquamarine</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Nadir - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-burn-preview.png" title="Go to Zenburn Dark Matter - Nadir - Burn" target="github">Burn</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-klimt-preview.png" title="Go to Zenburn Dark Matter - Nadir - Klimt" target="github">Klimt</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-klimt-preview.png" title="Go to Zenburn Dark Matter - Nadir - Klimt" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-klimt-preview.png"  alt="Zenburn Dark Matter - Nadir - Klimt"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-komodo-preview.png" title="Go to Zenburn Dark Matter - Nadir - Komodo" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-komodo-preview.png"  alt="Zenburn Dark Matter - Nadir - Komodo"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-komodo-preview.png" title="Go to Zenburn Dark Matter - Nadir - Komodo" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-komodo-preview.png"  alt="Zenburn Dark Matter - Nadir - Komodo"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-kronos-preview.png" title="Go to Zenburn Dark Matter - Nadir - Kronos" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-kronos-preview.png"  alt="Zenburn Dark Matter - Nadir - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-meabh-preview.png" title="Go to Zenburn Dark Matter - Nadir - Meabh" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-meabh-preview.png"  alt="Zenburn Dark Matter - Nadir - Meabh"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-moai-preview.png" title="Go to Zenburn Dark Matter - Nadir - Moai" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-moai-preview.png"  alt="Zenburn Dark Matter - Nadir - Moai"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-klimt-preview.png" title="Go to Zenburn Dark Matter - Nadir - Klimt" target="github">Klimt</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-komodo-preview.png" title="Go to Zenburn Dark Matter - Nadir - Komodo" target="github">Komodo</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-komodo-preview.png" title="Go to Zenburn Dark Matter - Nadir - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-kronos-preview.png" title="Go to Zenburn Dark Matter - Nadir - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-meabh-preview.png" title="Go to Zenburn Dark Matter - Nadir - Meabh" target="github">Meabh</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-moai-preview.png" title="Go to Zenburn Dark Matter - Nadir - Moai" target="github">Moai</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-moai-preview.png" title="Go to Zenburn Dark Matter - Nadir - Moai" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-moai-preview.png"  alt="Zenburn Dark Matter - Nadir - Moai"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-morion-preview.png" title="Go to Zenburn Dark Matter - Nadir - Morion" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-morion-preview.png"  alt="Zenburn Dark Matter - Nadir - Morion"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-morion-preview.png" title="Go to Zenburn Dark Matter - Nadir - Morion" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-morion-preview.png"  alt="Zenburn Dark Matter - Nadir - Morion"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nadir - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-mystic-river-preview.png"  alt="Zenburn Dark Matter - Nadir - Mystic River"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-obsidian-preview.png" title="Go to Zenburn Dark Matter - Nadir - Obsidian" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-obsidian-preview.png"  alt="Zenburn Dark Matter - Nadir - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-sulfur-preview.png" title="Go to Zenburn Dark Matter - Nadir - Sulfur" target="github"><img src="./_gfx/zenburn-dark-matter-nadir-sulfur-preview.png"  alt="Zenburn Dark Matter - Nadir - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-moai-preview.png" title="Go to Zenburn Dark Matter - Nadir - Moai" target="github">Moai</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-morion-preview.png" title="Go to Zenburn Dark Matter - Nadir - Morion" target="github">Morion</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-morion-preview.png" title="Go to Zenburn Dark Matter - Nadir - Morion" target="github">Morion</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nadir - Mystic River" target="github">Mystic River</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-obsidian-preview.png" title="Go to Zenburn Dark Matter - Nadir - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nadir-sulfur-preview.png" title="Go to Zenburn Dark Matter - Nadir - Sulfur" target="github">Sulfur</a> 
 </td></tr>
@@ -559,10 +565,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Nirvana** (11 skins): Low Blue Light only on Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-viserion-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Viserion" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-viserion-preview.png"  alt="Zenburn Dark Matter - Nirvana - Viserion"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-komodo-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Komodo" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-komodo-preview.png"  alt="Zenburn Dark Matter - Nirvana - Komodo"></a>
 </center>
 
-<div>Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-viserion-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Viserion" target="github">Viserion</a> 
+<div>Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-komodo-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Komodo" target="github">Komodo</a> 
 </div>
 
 
@@ -579,21 +585,21 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-burn-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Burn" target="github">Burn</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-klimt-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Klimt" target="github">Klimt</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-komodo-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Komodo" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-komodo-preview.png"  alt="Zenburn Dark Matter - Nirvana - Komodo"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-kronos-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Kronos" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-kronos-preview.png"  alt="Zenburn Dark Matter - Nirvana - Kronos"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-kronos-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Kronos" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-kronos-preview.png"  alt="Zenburn Dark Matter - Nirvana - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-meabh-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Meabh" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png"  alt="Zenburn Dark Matter - Nirvana - Meabh"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-moai-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Moai" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-moai-preview.png"  alt="Zenburn Dark Matter - Nirvana - Moai"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png"  alt="Zenburn Dark Matter - Nirvana - Mystic River"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-komodo-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Komodo" target="github">Komodo</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-kronos-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Kronos" target="github">Kronos</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-kronos-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-meabh-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Meabh" target="github">Meabh</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-moai-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Moai" target="github">Moai</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Mystic River" target="github">Mystic River</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Mystic River" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png"  alt="Zenburn Dark Matter - Nirvana - Mystic River"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-obsidian-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Obsidian" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-obsidian-preview.png"  alt="Zenburn Dark Matter - Nirvana - Obsidian"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-obsidian-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Obsidian" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-obsidian-preview.png"  alt="Zenburn Dark Matter - Nirvana - Obsidian"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-viserion-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Viserion" target="github"><img src="./_gfx/zenburn-dark-matter-nirvana-viserion-preview.png"  alt="Zenburn Dark Matter - Nirvana - Viserion"></a>
 </td><td colspan="2" rowspan="2" width="50%"></td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Mystic River" target="github">Mystic River</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-obsidian-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Obsidian" target="github">Obsidian</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-obsidian-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Obsidian" target="github">Obsidian</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nirvana - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-nirvana-viserion-preview.png" title="Go to Zenburn Dark Matter - Nirvana - Viserion" target="github">Viserion</a> 
 </td></tr>
 
 </table>
@@ -603,10 +609,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Warm** (13 skins): Warm Gray Background and Warm Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Warm - Aquamarine" target="github"><img src="./_gfx/zenburn-dark-matter-warm-aquamarine-preview.png"  alt="Zenburn Dark Matter - Warm - Aquamarine"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Warm - Black Pond Has My Heart" target="github"><img src="./_gfx/zenburn-dark-matter-warm-black-pond-has-my-heart-preview.png"  alt="Zenburn Dark Matter - Warm - Black Pond Has My Heart"></a>
 </center>
 
-<div>Warm - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Warm - Aquamarine" target="github">Aquamarine</a> 
+<div>Warm - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Warm - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </div>
 
 
@@ -614,12 +620,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 <center>
 <table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-alcatraz-preview.png" title="Go to Zenburn Dark Matter - Warm - Alcatraz" target="github"><img src="./_gfx/zenburn-dark-matter-warm-alcatraz-preview.png"  alt="Zenburn Dark Matter - Warm - Alcatraz"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Warm - Black Pond Has My Heart" target="github"><img src="./_gfx/zenburn-dark-matter-warm-black-pond-has-my-heart-preview.png"  alt="Zenburn Dark Matter - Warm - Black Pond Has My Heart"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Warm - Aquamarine" target="github"><img src="./_gfx/zenburn-dark-matter-warm-aquamarine-preview.png"  alt="Zenburn Dark Matter - Warm - Aquamarine"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-klimt-preview.png" title="Go to Zenburn Dark Matter - Warm - Klimt" target="github"><img src="./_gfx/zenburn-dark-matter-warm-klimt-preview.png"  alt="Zenburn Dark Matter - Warm - Klimt"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-komodo-preview.png" title="Go to Zenburn Dark Matter - Warm - Komodo" target="github"><img src="./_gfx/zenburn-dark-matter-warm-komodo-preview.png"  alt="Zenburn Dark Matter - Warm - Komodo"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-alcatraz-preview.png" title="Go to Zenburn Dark Matter - Warm - Alcatraz" target="github">Alcatraz</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Zenburn Dark Matter - Warm - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-aquamarine-preview.png" title="Go to Zenburn Dark Matter - Warm - Aquamarine" target="github">Aquamarine</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-klimt-preview.png" title="Go to Zenburn Dark Matter - Warm - Klimt" target="github">Klimt</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-zenburn-dark-matter/tree/master/_gfx/zenburn-dark-matter-warm-komodo-preview.png" title="Go to Zenburn Dark Matter - Warm - Komodo" target="github">Komodo</a> 
 </td></tr>
