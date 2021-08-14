@@ -2,7 +2,7 @@
 
 ## `Zenburn Dark Matter` Theme Change Log 
 
-> Engine: **VSCode Themes Master** v. 1.12.219 - Update: 2021-08-14 14:46:35
+> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-14 20:02:02
 
 > Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
 
@@ -82,7 +82,7 @@
 
 
 
-## [1.1.195]
+## [1.1.196]
 
 > I apologize to those of you who use the `HCUI` versions of the themes as you will have to set it up again due to the name change.
 
