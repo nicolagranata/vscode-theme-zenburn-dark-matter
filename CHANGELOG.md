@@ -2,7 +2,7 @@
 
 ## `Zenburn Dark Matter` Theme Change Log 
 
-> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-15 02:01:34
+> Engine: **VSCode Themes Master** v. 1.12.222 - Update: 2021-08-15 20:57:55
 
 > Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
 
@@ -85,6 +85,8 @@
 ## [1.1.196]
 
 - [`Readme`] Improved `Fonts Table`: added **Google Search** button (&#127350;) (if the link for the font page no longer works) and added information if the font is `Bitmap` (&#127345;);
+- [`Readme`] Revised some parameters and rating of `Fonts`.
+- [`Development`] Improved `Poweshell Commands / Output` messages;
 
 ## [1.1.195]
 
