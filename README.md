@@ -163,7 +163,7 @@ Personally, I think it's the better choice between the two, based on the monitor
 
 **Version 1.1.196**
 - [`Readme`] Improved `Fonts Table`: added **Google Search** button (&#127350;) (if the link for the font page no longer works) and added information if the font is `Bitmap` (&#127345;);
-- [`Readme`] Revised some parameters and rating of `Fonts`.
+- [`Readme`] Revised some parameters and ratings of `Fonts`.
 - [`Development`] Improved `Poweshell Commands / Output` messages;
 
 
@@ -275,9 +275,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Cold - Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)
+[![Zenburn Dark Matter - Cold - Obsidian](./_gfx/zenburn-dark-matter-cold-obsidian-preview.png)](./_gfx/zenburn-dark-matter-cold-obsidian-preview.png)
 
-[Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png) <br>Cold
+[Obsidian](./_gfx/zenburn-dark-matter-cold-obsidian-preview.png) <br>Cold
 
 
 <table>
@@ -310,6 +310,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
+[![Zenburn Dark Matter - Cold - Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)
+
+[Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
 [![Zenburn Dark Matter - Cold - Kronos](./_gfx/zenburn-dark-matter-cold-kronos-preview.png)](./_gfx/zenburn-dark-matter-cold-kronos-preview.png)
 
 [Kronos](./_gfx/zenburn-dark-matter-cold-kronos-preview.png) <br>Cold
@@ -326,25 +332,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Moai](./_gfx/zenburn-dark-matter-cold-moai-preview.png) <br>Cold
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Cold - Morion](./_gfx/zenburn-dark-matter-cold-morion-preview.png)](./_gfx/zenburn-dark-matter-cold-morion-preview.png)
 
 [Morion](./_gfx/zenburn-dark-matter-cold-morion-preview.png) <br>Cold
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Cold - Mystic River](./_gfx/zenburn-dark-matter-cold-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-cold-mystic-river-preview.png)
 
 [Mystic River](./_gfx/zenburn-dark-matter-cold-mystic-river-preview.png) <br>Cold
-</td>
-<td align="center" valign="top" >
-
-[![Zenburn Dark Matter - Cold - Obsidian](./_gfx/zenburn-dark-matter-cold-obsidian-preview.png)](./_gfx/zenburn-dark-matter-cold-obsidian-preview.png)
-
-[Obsidian](./_gfx/zenburn-dark-matter-cold-obsidian-preview.png) <br>Cold
 </td>
 <td align="center" valign="top" >
 
@@ -427,9 +427,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - EclipseDS - Kronos](./_gfx/zenburn-dark-matter-eclipseds-kronos-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-kronos-preview.png)
+[![Zenburn Dark Matter - EclipseDS - Komodo](./_gfx/zenburn-dark-matter-eclipseds-komodo-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-komodo-preview.png)
 
-[Kronos](./_gfx/zenburn-dark-matter-eclipseds-kronos-preview.png) <br>EclipseDS
+[Komodo](./_gfx/zenburn-dark-matter-eclipseds-komodo-preview.png) <br>EclipseDS
 
 
 <table>
@@ -448,9 +448,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - EclipseDS - Komodo](./_gfx/zenburn-dark-matter-eclipseds-komodo-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-komodo-preview.png)
+[![Zenburn Dark Matter - EclipseDS - Kronos](./_gfx/zenburn-dark-matter-eclipseds-kronos-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-kronos-preview.png)
 
-[Komodo](./_gfx/zenburn-dark-matter-eclipseds-komodo-preview.png) <br>EclipseDS
+[Kronos](./_gfx/zenburn-dark-matter-eclipseds-kronos-preview.png) <br>EclipseDS
 </td>
 <td align="center" valign="top" >
 
@@ -497,9 +497,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Equinox - Viserion](./_gfx/zenburn-dark-matter-equinox-viserion-preview.png)](./_gfx/zenburn-dark-matter-equinox-viserion-preview.png)
+[![Zenburn Dark Matter - Equinox - Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)
 
-[Viserion](./_gfx/zenburn-dark-matter-equinox-viserion-preview.png) <br>Equinox
+[Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png) <br>Equinox
 
 
 <table>
@@ -524,18 +524,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Equinox - Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)
-
-[Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png) <br>Equinox
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" >
-
 [![Zenburn Dark Matter - Equinox - Kronos](./_gfx/zenburn-dark-matter-equinox-kronos-preview.png)](./_gfx/zenburn-dark-matter-equinox-kronos-preview.png)
 
 [Kronos](./_gfx/zenburn-dark-matter-equinox-kronos-preview.png) <br>Equinox
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Equinox - Meabh](./_gfx/zenburn-dark-matter-equinox-meabh-preview.png)](./_gfx/zenburn-dark-matter-equinox-meabh-preview.png)
@@ -554,13 +548,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Mystic River](./_gfx/zenburn-dark-matter-equinox-mystic-river-preview.png) <br>Equinox
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Equinox - Obsidian](./_gfx/zenburn-dark-matter-equinox-obsidian-preview.png)](./_gfx/zenburn-dark-matter-equinox-obsidian-preview.png)
 
 [Obsidian](./_gfx/zenburn-dark-matter-equinox-obsidian-preview.png) <br>Equinox
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Zenburn Dark Matter - Equinox - Viserion](./_gfx/zenburn-dark-matter-equinox-viserion-preview.png)](./_gfx/zenburn-dark-matter-equinox-viserion-preview.png)
+
+[Viserion](./_gfx/zenburn-dark-matter-equinox-viserion-preview.png) <br>Equinox
 </td>
 <td align="center" valign="top" >
 
@@ -593,9 +593,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Flat - Komodo](./_gfx/zenburn-dark-matter-flat-komodo-preview.png)](./_gfx/zenburn-dark-matter-flat-komodo-preview.png)
+[![Zenburn Dark Matter - Flat - Mystic River](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png)
 
-[Komodo](./_gfx/zenburn-dark-matter-flat-komodo-preview.png) <br>Flat
+[Mystic River](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png) <br>Flat
 
 
 <table>
@@ -628,6 +628,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
+[![Zenburn Dark Matter - Flat - Komodo](./_gfx/zenburn-dark-matter-flat-komodo-preview.png)](./_gfx/zenburn-dark-matter-flat-komodo-preview.png)
+
+[Komodo](./_gfx/zenburn-dark-matter-flat-komodo-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
 [![Zenburn Dark Matter - Flat - Kronos](./_gfx/zenburn-dark-matter-flat-kronos-preview.png)](./_gfx/zenburn-dark-matter-flat-kronos-preview.png)
 
 [Kronos](./_gfx/zenburn-dark-matter-flat-kronos-preview.png) <br>Flat
@@ -644,19 +650,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Moai](./_gfx/zenburn-dark-matter-flat-moai-preview.png) <br>Flat
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Flat - Morion](./_gfx/zenburn-dark-matter-flat-morion-preview.png)](./_gfx/zenburn-dark-matter-flat-morion-preview.png)
 
 [Morion](./_gfx/zenburn-dark-matter-flat-morion-preview.png) <br>Flat
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" >
-
-[![Zenburn Dark Matter - Flat - Mystic River](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png)
-
-[Mystic River](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png) <br>Flat
 </td>
 <td align="center" valign="top" >
 
@@ -695,9 +695,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Insomnia - Mystic River](./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png)
+[![Zenburn Dark Matter - Insomnia - Meabh](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png)](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png)
 
-[Mystic River](./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png) <br>Insomnia
+[Meabh](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png) <br>Insomnia
 
 
 <table>
@@ -730,15 +730,15 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Insomnia - Meabh](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png)](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png)
-
-[Meabh](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png) <br>Insomnia
-</td>
-<td align="center" valign="top" >
-
 [![Zenburn Dark Matter - Insomnia - Moai](./_gfx/zenburn-dark-matter-insomnia-moai-preview.png)](./_gfx/zenburn-dark-matter-insomnia-moai-preview.png)
 
 [Moai](./_gfx/zenburn-dark-matter-insomnia-moai-preview.png) <br>Insomnia
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Dark Matter - Insomnia - Mystic River](./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png)
+
+[Mystic River](./_gfx/zenburn-dark-matter-insomnia-mystic-river-preview.png) <br>Insomnia
 </td>
 <td align="center" valign="top" >
 
@@ -839,9 +839,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Nadir - Kronos](./_gfx/zenburn-dark-matter-nadir-kronos-preview.png)](./_gfx/zenburn-dark-matter-nadir-kronos-preview.png)
+[![Zenburn Dark Matter - Nadir - Komodo](./_gfx/zenburn-dark-matter-nadir-komodo-preview.png)](./_gfx/zenburn-dark-matter-nadir-komodo-preview.png)
 
-[Kronos](./_gfx/zenburn-dark-matter-nadir-kronos-preview.png) <br>Nadir
+[Komodo](./_gfx/zenburn-dark-matter-nadir-komodo-preview.png) <br>Nadir
 
 
 <table>
@@ -880,9 +880,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Nadir - Komodo](./_gfx/zenburn-dark-matter-nadir-komodo-preview.png)](./_gfx/zenburn-dark-matter-nadir-komodo-preview.png)
+[![Zenburn Dark Matter - Nadir - Kronos](./_gfx/zenburn-dark-matter-nadir-kronos-preview.png)](./_gfx/zenburn-dark-matter-nadir-kronos-preview.png)
 
-[Komodo](./_gfx/zenburn-dark-matter-nadir-komodo-preview.png) <br>Nadir
+[Kronos](./_gfx/zenburn-dark-matter-nadir-kronos-preview.png) <br>Nadir
 </td>
 <td align="center" valign="top" >
 
@@ -961,9 +961,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Nirvana - Meabh](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png)](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png)
+[![Zenburn Dark Matter - Nirvana - Mystic River](./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png)
 
-[Meabh](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png) <br>Nirvana
+[Mystic River](./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png) <br>Nirvana
 
 
 <table>
@@ -1008,15 +1008,15 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Nirvana - Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)
+[![Zenburn Dark Matter - Nirvana - Meabh](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png)](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png)
 
-[Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png) <br>Nirvana
+[Meabh](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png) <br>Nirvana
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Nirvana - Mystic River](./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png)
+[![Zenburn Dark Matter - Nirvana - Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)
 
-[Mystic River](./_gfx/zenburn-dark-matter-nirvana-mystic-river-preview.png) <br>Nirvana
+[Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png) <br>Nirvana
 </td>
 </tr>
 <tr>
@@ -1059,9 +1059,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Warm - Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)
+[![Zenburn Dark Matter - Warm - Obsidian](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png)](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png)
 
-[Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png) <br>Warm
+[Obsidian](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png) <br>Warm
 
 
 <table>
@@ -1132,9 +1132,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Warm - Obsidian](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png)](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png)
+[![Zenburn Dark Matter - Warm - Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)
 
-[Obsidian](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png) <br>Warm
+[Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png) <br>Warm
 </td>
 <td align="center" valign="top" >
 

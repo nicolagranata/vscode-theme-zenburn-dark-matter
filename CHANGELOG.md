@@ -85,7 +85,7 @@
 ## [1.1.196]
 
 - [`Readme`] Improved `Fonts Table`: added **Google Search** button (&#127350;) (if the link for the font page no longer works) and added information if the font is `Bitmap` (&#127345;);
-- [`Readme`] Revised some parameters and rating of `Fonts`.
+- [`Readme`] Revised some parameters and ratings of `Fonts`.
 - [`Development`] Improved `Poweshell Commands / Output` messages;
 
 ## [1.1.195]
