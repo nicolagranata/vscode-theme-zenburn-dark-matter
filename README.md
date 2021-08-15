@@ -1,4 +1,4 @@
-﻿<div align="center"><center>
+<div align="center"><center>
 
 ![Zenburn Dark Matter Theme Cover](_gfx/zenburn-dark-matter-cover.png)
 
@@ -79,7 +79,7 @@ Personally, I think it's the better choice between the two, based on the monitor
 
 # Changelog for Zenburn Dark Matter Theme
 
-> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-14 20:02:02
+> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-15 02:01:34
 
 > Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
 
@@ -87,7 +87,7 @@ Personally, I think it's the better choice between the two, based on the monitor
 
 **Last added fonts**
 
-> Note: Fonts marked with a symbol &#11088; have a high readability at `10px`, or have a size of `9px`/`11px` such as to occupy the space of common fonts at `10px` and always guarantee high readability.
+> Note: Fonts marked with a symbol &#11088; have a high readability at `10px`, or have a size of `9px`-`12px` such as to occupy the space of common fonts at `10px` and always guarantee high readability.
 
 - **2021/08/14**
 
@@ -162,6 +162,11 @@ Personally, I think it's the better choice between the two, based on the monitor
 
 
 **Version 1.1.196**
+- [`Readme`] Improved `Fonts Table`: added **Google Search** button (&#127350;) (if the link for the font page no longer works) and added information if the font is `Bitmap` (&#127345;);
+
+
+
+**Version 1.1.195**
 > I apologize to those of you who use the `HCUI` versions of the themes as you will have to set it up again due to the name change.
 
 - [`Theme`] Added `Hearthstone` theme color.
@@ -178,16 +183,6 @@ Personally, I think it's the better choice between the two, based on the monitor
 
 **Version 1.1.193**
 - [`Readme`] Added &#11088; (star) symbol on fonts with `5.0` readability rating at `10px`.
-
-
-
-**Version 1.1.192**
-- [`Theme`] `Monolith Suite` - added `Opal` sub-themes, with extra dark background and low token colors saturation for use in dark rooms, and, for this reason, there is no `HCUI` version of `Opal` sub-themes (it would not make sense);
-- [`Theme`] Fixed and added some colors;
-- [`Development`] Added `Relative Alpha` and `Percent Relative Alpha` calculation capabilities;
-- [`Development`] Added `Relative Saturation`  and `Percent Relative Saturation` calculation capabilities;
-- [`Development`] Added function `get_relative_value(...)` to improve the flexibility of the themes configuration params: up to the previous version, relative values ​​and percentage values ​​could only be calculated for direct color modification and not for saturation and transparency changes which accepted only absolute values.
-- [`Readme`] Added some new fonts (see **Last added fonts**), revised some parameters of the existing ones and added some clarifications.
 
 
 
@@ -278,9 +273,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Cold - Klimt](./_gfx/zenburn-dark-matter-cold-klimt-preview.png)](./_gfx/zenburn-dark-matter-cold-klimt-preview.png)
+[![Zenburn Dark Matter - Cold - Meabh](./_gfx/zenburn-dark-matter-cold-meabh-preview.png)](./_gfx/zenburn-dark-matter-cold-meabh-preview.png)
 
-[Klimt](./_gfx/zenburn-dark-matter-cold-klimt-preview.png) <br>Cold
+[Meabh](./_gfx/zenburn-dark-matter-cold-meabh-preview.png) <br>Cold
 
 
 <table>
@@ -305,23 +300,23 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Cold - Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)
+[![Zenburn Dark Matter - Cold - Klimt](./_gfx/zenburn-dark-matter-cold-klimt-preview.png)](./_gfx/zenburn-dark-matter-cold-klimt-preview.png)
 
-[Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png) <br>Cold
+[Klimt](./_gfx/zenburn-dark-matter-cold-klimt-preview.png) <br>Cold
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Cold - Kronos](./_gfx/zenburn-dark-matter-cold-kronos-preview.png)](./_gfx/zenburn-dark-matter-cold-kronos-preview.png)
+[![Zenburn Dark Matter - Cold - Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)](./_gfx/zenburn-dark-matter-cold-komodo-preview.png)
 
-[Kronos](./_gfx/zenburn-dark-matter-cold-kronos-preview.png) <br>Cold
+[Komodo](./_gfx/zenburn-dark-matter-cold-komodo-preview.png) <br>Cold
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Cold - Meabh](./_gfx/zenburn-dark-matter-cold-meabh-preview.png)](./_gfx/zenburn-dark-matter-cold-meabh-preview.png)
+[![Zenburn Dark Matter - Cold - Kronos](./_gfx/zenburn-dark-matter-cold-kronos-preview.png)](./_gfx/zenburn-dark-matter-cold-kronos-preview.png)
 
-[Meabh](./_gfx/zenburn-dark-matter-cold-meabh-preview.png) <br>Cold
+[Kronos](./_gfx/zenburn-dark-matter-cold-kronos-preview.png) <br>Cold
 </td>
 <td align="center" valign="top" >
 
@@ -430,13 +425,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - EclipseDS - Black Pond Has My Heart](./_gfx/zenburn-dark-matter-eclipseds-black-pond-has-my-heart-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-black-pond-has-my-heart-preview.png)
+[![Zenburn Dark Matter - EclipseDS - Obsidian](./_gfx/zenburn-dark-matter-eclipseds-obsidian-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-obsidian-preview.png)
 
-[Black pond has my heart](./_gfx/zenburn-dark-matter-eclipseds-black-pond-has-my-heart-preview.png) <br>EclipseDS
+[Obsidian](./_gfx/zenburn-dark-matter-eclipseds-obsidian-preview.png) <br>EclipseDS
 
 
 <table>
 <tr>
+<td align="center" valign="top" >
+
+[![Zenburn Dark Matter - EclipseDS - Black Pond Has My Heart](./_gfx/zenburn-dark-matter-eclipseds-black-pond-has-my-heart-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/zenburn-dark-matter-eclipseds-black-pond-has-my-heart-preview.png) <br>EclipseDS
+</td>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - EclipseDS - Klimt](./_gfx/zenburn-dark-matter-eclipseds-klimt-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-klimt-preview.png)
@@ -455,19 +456,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Kronos](./_gfx/zenburn-dark-matter-eclipseds-kronos-preview.png) <br>EclipseDS
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - EclipseDS - Meabh](./_gfx/zenburn-dark-matter-eclipseds-meabh-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-meabh-preview.png)
 
 [Meabh](./_gfx/zenburn-dark-matter-eclipseds-meabh-preview.png) <br>EclipseDS
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" >
-
-[![Zenburn Dark Matter - EclipseDS - Obsidian](./_gfx/zenburn-dark-matter-eclipseds-obsidian-preview.png)](./_gfx/zenburn-dark-matter-eclipseds-obsidian-preview.png)
-
-[Obsidian](./_gfx/zenburn-dark-matter-eclipseds-obsidian-preview.png) <br>EclipseDS
 </td>
 <td align="center" valign="top" >
 
@@ -500,13 +495,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Equinox - Black Pond Has My Heart](./_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png)](./_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png)
+[![Zenburn Dark Matter - Equinox - Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)
 
-[Black pond has my heart](./_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png) <br>Equinox
+[Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png) <br>Equinox
 
 
 <table>
 <tr>
+<td align="center" valign="top" >
+
+[![Zenburn Dark Matter - Equinox - Black Pond Has My Heart](./_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png)](./_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/zenburn-dark-matter-equinox-black-pond-has-my-heart-preview.png) <br>Equinox
+</td>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Equinox - Burn](./_gfx/zenburn-dark-matter-equinox-burn-preview.png)](./_gfx/zenburn-dark-matter-equinox-burn-preview.png)
@@ -518,12 +519,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Dark Matter - Equinox - Klimt](./_gfx/zenburn-dark-matter-equinox-klimt-preview.png)](./_gfx/zenburn-dark-matter-equinox-klimt-preview.png)
 
 [Klimt](./_gfx/zenburn-dark-matter-equinox-klimt-preview.png) <br>Equinox
-</td>
-<td align="center" valign="top" >
-
-[![Zenburn Dark Matter - Equinox - Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png)
-
-[Komodo](./_gfx/zenburn-dark-matter-equinox-komodo-preview.png) <br>Equinox
 </td>
 <td align="center" valign="top" >
 
@@ -596,9 +591,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Flat - Black Pond Has My Heart](./_gfx/zenburn-dark-matter-flat-black-pond-has-my-heart-preview.png)](./_gfx/zenburn-dark-matter-flat-black-pond-has-my-heart-preview.png)
+[![Zenburn Dark Matter - Flat - Sulfur](./_gfx/zenburn-dark-matter-flat-sulfur-preview.png)](./_gfx/zenburn-dark-matter-flat-sulfur-preview.png)
 
-[Black pond has my heart](./_gfx/zenburn-dark-matter-flat-black-pond-has-my-heart-preview.png) <br>Flat
+[Sulfur](./_gfx/zenburn-dark-matter-flat-sulfur-preview.png) <br>Flat
 
 
 <table>
@@ -617,18 +612,24 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
+[![Zenburn Dark Matter - Flat - Black Pond Has My Heart](./_gfx/zenburn-dark-matter-flat-black-pond-has-my-heart-preview.png)](./_gfx/zenburn-dark-matter-flat-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/zenburn-dark-matter-flat-black-pond-has-my-heart-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
 [![Zenburn Dark Matter - Flat - Klimt](./_gfx/zenburn-dark-matter-flat-klimt-preview.png)](./_gfx/zenburn-dark-matter-flat-klimt-preview.png)
 
 [Klimt](./_gfx/zenburn-dark-matter-flat-klimt-preview.png) <br>Flat
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Flat - Komodo](./_gfx/zenburn-dark-matter-flat-komodo-preview.png)](./_gfx/zenburn-dark-matter-flat-komodo-preview.png)
 
 [Komodo](./_gfx/zenburn-dark-matter-flat-komodo-preview.png) <br>Flat
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Flat - Kronos](./_gfx/zenburn-dark-matter-flat-kronos-preview.png)](./_gfx/zenburn-dark-matter-flat-kronos-preview.png)
@@ -647,14 +648,14 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Moai](./_gfx/zenburn-dark-matter-flat-moai-preview.png) <br>Flat
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Flat - Morion](./_gfx/zenburn-dark-matter-flat-morion-preview.png)](./_gfx/zenburn-dark-matter-flat-morion-preview.png)
 
 [Morion](./_gfx/zenburn-dark-matter-flat-morion-preview.png) <br>Flat
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Flat - Mystic River](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-flat-mystic-river-preview.png)
@@ -666,12 +667,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Dark Matter - Flat - Obsidian](./_gfx/zenburn-dark-matter-flat-obsidian-preview.png)](./_gfx/zenburn-dark-matter-flat-obsidian-preview.png)
 
 [Obsidian](./_gfx/zenburn-dark-matter-flat-obsidian-preview.png) <br>Flat
-</td>
-<td align="center" valign="top" >
-
-[![Zenburn Dark Matter - Flat - Sulfur](./_gfx/zenburn-dark-matter-flat-sulfur-preview.png)](./_gfx/zenburn-dark-matter-flat-sulfur-preview.png)
-
-[Sulfur](./_gfx/zenburn-dark-matter-flat-sulfur-preview.png) <br>Flat
 </td>
 <td align="center" valign="top" >
 
@@ -698,9 +693,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Insomnia - Kronos](./_gfx/zenburn-dark-matter-insomnia-kronos-preview.png)](./_gfx/zenburn-dark-matter-insomnia-kronos-preview.png)
+[![Zenburn Dark Matter - Insomnia - Viserion](./_gfx/zenburn-dark-matter-insomnia-viserion-preview.png)](./_gfx/zenburn-dark-matter-insomnia-viserion-preview.png)
 
-[Kronos](./_gfx/zenburn-dark-matter-insomnia-kronos-preview.png) <br>Insomnia
+[Viserion](./_gfx/zenburn-dark-matter-insomnia-viserion-preview.png) <br>Insomnia
 
 
 <table>
@@ -725,12 +720,18 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
+[![Zenburn Dark Matter - Insomnia - Kronos](./_gfx/zenburn-dark-matter-insomnia-kronos-preview.png)](./_gfx/zenburn-dark-matter-insomnia-kronos-preview.png)
+
+[Kronos](./_gfx/zenburn-dark-matter-insomnia-kronos-preview.png) <br>Insomnia
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
 [![Zenburn Dark Matter - Insomnia - Meabh](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png)](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png)
 
 [Meabh](./_gfx/zenburn-dark-matter-insomnia-meabh-preview.png) <br>Insomnia
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Insomnia - Moai](./_gfx/zenburn-dark-matter-insomnia-moai-preview.png)](./_gfx/zenburn-dark-matter-insomnia-moai-preview.png)
@@ -748,12 +749,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Dark Matter - Insomnia - Obsidian](./_gfx/zenburn-dark-matter-insomnia-obsidian-preview.png)](./_gfx/zenburn-dark-matter-insomnia-obsidian-preview.png)
 
 [Obsidian](./_gfx/zenburn-dark-matter-insomnia-obsidian-preview.png) <br>Insomnia
-</td>
-<td align="center" valign="top" >
-
-[![Zenburn Dark Matter - Insomnia - Viserion](./_gfx/zenburn-dark-matter-insomnia-viserion-preview.png)](./_gfx/zenburn-dark-matter-insomnia-viserion-preview.png)
-
-[Viserion](./_gfx/zenburn-dark-matter-insomnia-viserion-preview.png) <br>Insomnia
 </td>
 </tr>
 
@@ -798,18 +793,18 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Midnight - Klimt](./_gfx/zenburn-dark-matter-midnight-klimt-preview.png)](./_gfx/zenburn-dark-matter-midnight-klimt-preview.png)
+[![Zenburn Dark Matter - Midnight - Viserion](./_gfx/zenburn-dark-matter-midnight-viserion-preview.png)](./_gfx/zenburn-dark-matter-midnight-viserion-preview.png)
 
-[Klimt](./_gfx/zenburn-dark-matter-midnight-klimt-preview.png) <br>Midnight
+[Viserion](./_gfx/zenburn-dark-matter-midnight-viserion-preview.png) <br>Midnight
 
 
 <table>
 <tr>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Midnight - Viserion](./_gfx/zenburn-dark-matter-midnight-viserion-preview.png)](./_gfx/zenburn-dark-matter-midnight-viserion-preview.png)
+[![Zenburn Dark Matter - Midnight - Klimt](./_gfx/zenburn-dark-matter-midnight-klimt-preview.png)](./_gfx/zenburn-dark-matter-midnight-klimt-preview.png)
 
-[Viserion](./_gfx/zenburn-dark-matter-midnight-viserion-preview.png) <br>Midnight
+[Klimt](./_gfx/zenburn-dark-matter-midnight-klimt-preview.png) <br>Midnight
 </td>
 <td align="center" valign="top" >
 
@@ -842,9 +837,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Nadir - Sulfur](./_gfx/zenburn-dark-matter-nadir-sulfur-preview.png)](./_gfx/zenburn-dark-matter-nadir-sulfur-preview.png)
+[![Zenburn Dark Matter - Nadir - Moai](./_gfx/zenburn-dark-matter-nadir-moai-preview.png)](./_gfx/zenburn-dark-matter-nadir-moai-preview.png)
 
-[Sulfur](./_gfx/zenburn-dark-matter-nadir-sulfur-preview.png) <br>Nadir
+[Moai](./_gfx/zenburn-dark-matter-nadir-moai-preview.png) <br>Nadir
 
 
 <table>
@@ -903,12 +898,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 <tr>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Nadir - Moai](./_gfx/zenburn-dark-matter-nadir-moai-preview.png)](./_gfx/zenburn-dark-matter-nadir-moai-preview.png)
-
-[Moai](./_gfx/zenburn-dark-matter-nadir-moai-preview.png) <br>Nadir
-</td>
-<td align="center" valign="top" >
-
 [![Zenburn Dark Matter - Nadir - Morion](./_gfx/zenburn-dark-matter-nadir-morion-preview.png)](./_gfx/zenburn-dark-matter-nadir-morion-preview.png)
 
 [Morion](./_gfx/zenburn-dark-matter-nadir-morion-preview.png) <br>Nadir
@@ -924,6 +913,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Dark Matter - Nadir - Obsidian](./_gfx/zenburn-dark-matter-nadir-obsidian-preview.png)](./_gfx/zenburn-dark-matter-nadir-obsidian-preview.png)
 
 [Obsidian](./_gfx/zenburn-dark-matter-nadir-obsidian-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Dark Matter - Nadir - Sulfur](./_gfx/zenburn-dark-matter-nadir-sulfur-preview.png)](./_gfx/zenburn-dark-matter-nadir-sulfur-preview.png)
+
+[Sulfur](./_gfx/zenburn-dark-matter-nadir-sulfur-preview.png) <br>Nadir
 </td>
 </tr>
 <tr>
@@ -964,9 +959,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Nirvana - Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)
+[![Zenburn Dark Matter - Nirvana - Burn](./_gfx/zenburn-dark-matter-nirvana-burn-preview.png)](./_gfx/zenburn-dark-matter-nirvana-burn-preview.png)
 
-[Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png) <br>Nirvana
+[Burn](./_gfx/zenburn-dark-matter-nirvana-burn-preview.png) <br>Nirvana
 
 
 <table>
@@ -985,24 +980,18 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Nirvana - Burn](./_gfx/zenburn-dark-matter-nirvana-burn-preview.png)](./_gfx/zenburn-dark-matter-nirvana-burn-preview.png)
-
-[Burn](./_gfx/zenburn-dark-matter-nirvana-burn-preview.png) <br>Nirvana
-</td>
-<td align="center" valign="top" >
-
 [![Zenburn Dark Matter - Nirvana - Klimt](./_gfx/zenburn-dark-matter-nirvana-klimt-preview.png)](./_gfx/zenburn-dark-matter-nirvana-klimt-preview.png)
 
 [Klimt](./_gfx/zenburn-dark-matter-nirvana-klimt-preview.png) <br>Nirvana
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Nirvana - Komodo](./_gfx/zenburn-dark-matter-nirvana-komodo-preview.png)](./_gfx/zenburn-dark-matter-nirvana-komodo-preview.png)
 
 [Komodo](./_gfx/zenburn-dark-matter-nirvana-komodo-preview.png) <br>Nirvana
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Nirvana - Kronos](./_gfx/zenburn-dark-matter-nirvana-kronos-preview.png)](./_gfx/zenburn-dark-matter-nirvana-kronos-preview.png)
@@ -1014,6 +1003,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Dark Matter - Nirvana - Meabh](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png)](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png)
 
 [Meabh](./_gfx/zenburn-dark-matter-nirvana-meabh-preview.png) <br>Nirvana
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Dark Matter - Nirvana - Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png)
+
+[Moai](./_gfx/zenburn-dark-matter-nirvana-moai-preview.png) <br>Nirvana
 </td>
 <td align="center" valign="top" >
 
@@ -1062,9 +1057,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Zenburn Dark Matter - Warm - Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)
+[![Zenburn Dark Matter - Warm - Kronos](./_gfx/zenburn-dark-matter-warm-kronos-preview.png)](./_gfx/zenburn-dark-matter-warm-kronos-preview.png)
 
-[Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png) <br>Warm
+[Kronos](./_gfx/zenburn-dark-matter-warm-kronos-preview.png) <br>Warm
 
 
 <table>
@@ -1103,12 +1098,6 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Zenburn Dark Matter - Warm - Kronos](./_gfx/zenburn-dark-matter-warm-kronos-preview.png)](./_gfx/zenburn-dark-matter-warm-kronos-preview.png)
-
-[Kronos](./_gfx/zenburn-dark-matter-warm-kronos-preview.png) <br>Warm
-</td>
-<td align="center" valign="top" >
-
 [![Zenburn Dark Matter - Warm - Meabh](./_gfx/zenburn-dark-matter-warm-meabh-preview.png)](./_gfx/zenburn-dark-matter-warm-meabh-preview.png)
 
 [Meabh](./_gfx/zenburn-dark-matter-warm-meabh-preview.png) <br>Warm
@@ -1119,14 +1108,14 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Moai](./_gfx/zenburn-dark-matter-warm-moai-preview.png) <br>Warm
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Warm - Morion](./_gfx/zenburn-dark-matter-warm-morion-preview.png)](./_gfx/zenburn-dark-matter-warm-morion-preview.png)
 
 [Morion](./_gfx/zenburn-dark-matter-warm-morion-preview.png) <br>Warm
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Zenburn Dark Matter - Warm - Mystic River](./_gfx/zenburn-dark-matter-warm-mystic-river-preview.png)](./_gfx/zenburn-dark-matter-warm-mystic-river-preview.png)
@@ -1138,6 +1127,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Zenburn Dark Matter - Warm - Obsidian](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png)](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png)
 
 [Obsidian](./_gfx/zenburn-dark-matter-warm-obsidian-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+[![Zenburn Dark Matter - Warm - Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png)
+
+[Sulfur](./_gfx/zenburn-dark-matter-warm-sulfur-preview.png) <br>Warm
 </td>
 <td align="center" valign="top" >
 
@@ -1428,7 +1423,7 @@ Click on the **Font Name** to download or on &#127350; to search it with Google.
 <div  align="center"><table><tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-001-ankacoder-"  name="font-001-ankacoder-"></a>001 - <a href="https://fontlibrary.org/it/font/anka-coder" title="Download Anka/Coder ">Anka/Coder </a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-001-ankacoder-"  name="font-001-ankacoder-"></a>001 - <a href="https://fontlibrary.org/it/font/anka-coder" title="Download Anka/Coder ">Anka/Coder </a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Anka%2FCoder%20%20font" title="Search with Google: 'Anka/Coder ' font" alt="Search with Google: 'Anka/Coder ' font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1455,7 +1450,7 @@ This font has one or more problems in rendering and cannot be displayed in previ
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-002-ankacoder-condensed"  name="font-002-ankacoder-condensed"></a>002 - <a href="https://fontlibrary.org/it/font/anka-coder-condensed" title="Download Anka/Coder Condensed">Anka/Coder Condensed</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-002-ankacoder-condensed"  name="font-002-ankacoder-condensed"></a>002 - <a href="https://fontlibrary.org/it/font/anka-coder-condensed" title="Download Anka/Coder Condensed">Anka/Coder Condensed</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Anka%2FCoder%20Condensed%20font" title="Search with Google: 'Anka/Coder Condensed' font" alt="Search with Google: 'Anka/Coder Condensed' font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1480,7 +1475,7 @@ Anka/Coder Condensed: Copy the font name including single quotes 'Anka/Coder Con
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-003-ankacoder-narrow"  name="font-003-ankacoder-narrow"></a>003 - <a href="https://fontlibrary.org/it/font/anka-coder-narrow" title="Download Anka/Coder Narrow">Anka/Coder Narrow</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-003-ankacoder-narrow"  name="font-003-ankacoder-narrow"></a>003 - <a href="https://fontlibrary.org/it/font/anka-coder-narrow" title="Download Anka/Coder Narrow">Anka/Coder Narrow</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Anka%2FCoder%20Narrow%20font" title="Search with Google: 'Anka/Coder Narrow' font" alt="Search with Google: 'Anka/Coder Narrow' font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1505,7 +1500,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-004-apl385-unicode"  name="font-004-apl385-unicode"></a>004 - <a href="http://apl385.com/fonts/index.htm" title="Download APL385 Unicode">APL385 Unicode</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;]</span></div>
+<a id="font-004-apl385-unicode"  name="font-004-apl385-unicode"></a>004 - <a href="http://apl385.com/fonts/index.htm" title="Download APL385 Unicode">APL385 Unicode</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=APL385%20Unicode%20font" title="Search with Google: APL385 Unicode font" alt="Search with Google: APL385 Unicode font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1526,7 +1521,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-005-agave-regular"  name="font-005-agave-regular"></a>005 - <a href="https://github.com/blobject/agave" title="Download Agave Regular">Agave Regular</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-005-agave-regular"  name="font-005-agave-regular"></a>005 - <a href="https://github.com/blobject/agave" title="Download Agave Regular">Agave Regular</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Agave%20Regular%20font" title="Search with Google: Agave Regular font" alt="Search with Google: Agave Regular font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1547,7 +1542,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-006-alma-mono"  name="font-006-alma-mono"></a>006 - <a href="http://almamono.com/download/" title="Download Alma Mono">Alma Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-006-alma-mono"  name="font-006-alma-mono"></a>006 - <a href="http://almamono.com/download/" title="Download Alma Mono">Alma Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Alma%20Mono%20font" title="Search with Google: Alma Mono font" alt="Search with Google: Alma Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1568,7 +1563,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-007-andale-mono"  name="font-007-andale-mono"></a>007 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Andale Mono">Andale Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-007-andale-mono"  name="font-007-andale-mono"></a>007 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Andale Mono">Andale Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Andale%20Mono%20font" title="Search with Google: Andale Mono font" alt="Search with Google: Andale Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1589,7 +1584,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-008-anonymous-pro"  name="font-008-anonymous-pro"></a>008 - <a href="https://www.marksimonson.com/fonts/view/anonymous-pro" title="Download Anonymous Pro">Anonymous Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-008-anonymous-pro"  name="font-008-anonymous-pro"></a>008 - <a href="https://www.marksimonson.com/fonts/view/anonymous-pro" title="Download Anonymous Pro">Anonymous Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Anonymous%20Pro%20font" title="Search with Google: Anonymous Pro font" alt="Search with Google: Anonymous Pro font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1610,7 +1605,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-009-antikor-mono"  name="font-009-antikor-mono"></a>009 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Mono">Antikor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-009-antikor-mono"  name="font-009-antikor-mono"></a>009 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Mono">Antikor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Antikor%20Mono%20font" title="Search with Google: Antikor Mono font" alt="Search with Google: Antikor Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1666,7 +1661,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-010-antikor-text"  name="font-010-antikor-text"></a>010 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Text">Antikor Text</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-010-antikor-text"  name="font-010-antikor-text"></a>010 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Text">Antikor Text</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Antikor%20Text%20font" title="Search with Google: Antikor Text font" alt="Search with Google: Antikor Text font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1722,7 +1717,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-011-aurulent-sans-mono"  name="font-011-aurulent-sans-mono"></a>011 - <a href="https://www.dafont.com/aurulent-sans-mono.font" title="Download Aurulent Sans Mono">Aurulent Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;]</span></div>
+<a id="font-011-aurulent-sans-mono"  name="font-011-aurulent-sans-mono"></a>011 - <a href="https://www.dafont.com/aurulent-sans-mono.font" title="Download Aurulent Sans Mono">Aurulent Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Aurulent%20Sans%20Mono%20font" title="Search with Google: Aurulent Sans Mono font" alt="Search with Google: Aurulent Sans Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1743,7 +1738,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-012-averagemono"  name="font-012-averagemono"></a>012 - <a href="https://fontlibrary.org/en/font/average-mono" title="Download AverageMono">AverageMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-012-averagemono"  name="font-012-averagemono"></a>012 - <a href="https://fontlibrary.org/en/font/average-mono" title="Download AverageMono">AverageMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=AverageMono%20font" title="Search with Google: AverageMono font" alt="Search with Google: AverageMono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1764,7 +1759,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-013-b612-mono"  name="font-013-b612-mono"></a>013 - <a href="https://fonts.google.com/specimen/B612+Mono" title="Download B612 Mono">B612 Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
+<a id="font-013-b612-mono"  name="font-013-b612-mono"></a>013 - <a href="https://fonts.google.com/specimen/B612+Mono" title="Download B612 Mono">B612 Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=B612%20Mono%20font" title="Search with Google: B612 Mono font" alt="Search with Google: B612 Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1785,7 +1780,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-014-bpmono"  name="font-014-bpmono"></a>014 - <a href="https://www.fontmirror.com/monaco" title="Download BPmono">BPmono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-014-bpmono"  name="font-014-bpmono"></a>014 - <a href="https://www.fontmirror.com/monaco" title="Download BPmono">BPmono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=BPmono%20font" title="Search with Google: BPmono font" alt="Search with Google: BPmono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1806,7 +1801,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-015-basier-square-mono"  name="font-015-basier-square-mono"></a>015 - <a href="https://www.atipofoundry.com/fonts/basier-mono" title="Download Basier Square Mono">Basier Square Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-015-basier-square-mono"  name="font-015-basier-square-mono"></a>015 - <a href="https://www.atipofoundry.com/fonts/basier-mono" title="Download Basier Square Mono">Basier Square Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Basier%20Square%20Mono%20font" title="Search with Google: Basier Square Mono font" alt="Search with Google: Basier Square Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1827,7 +1822,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-016-bedstead"  name="font-016-bedstead"></a>016 - <a href="https://bjh21.me.uk/bedstead/" title="Download Bedstead">Bedstead</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;]</span></div>
+<a id="font-016-bedstead"  name="font-016-bedstead"></a>016 - <a href="https://bjh21.me.uk/bedstead/" title="Download Bedstead">Bedstead</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Bedstead%20font" title="Search with Google: Bedstead font" alt="Search with Google: Bedstead font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1848,7 +1843,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-017-bergen-mono"  name="font-017-bergen-mono"></a>017 - <a href="https://allbestfonts.com/bergen-mono/" title="Download Bergen Mono">Bergen Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-017-bergen-mono"  name="font-017-bergen-mono"></a>017 - <a href="https://allbestfonts.com/bergen-mono/" title="Download Bergen Mono">Bergen Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Bergen%20Mono%20font" title="Search with Google: Bergen Mono font" alt="Search with Google: Bergen Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1869,7 +1864,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-018-bitstream-vera-sans-mono"  name="font-018-bitstream-vera-sans-mono"></a>018 - <a href="https://www.dafont.com/it/bitstream-vera-mono.font" title="Download Bitstream Vera Sans Mono">Bitstream Vera Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-018-bitstream-vera-sans-mono"  name="font-018-bitstream-vera-sans-mono"></a>018 - <a href="https://www.dafont.com/it/bitstream-vera-mono.font" title="Download Bitstream Vera Sans Mono">Bitstream Vera Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Bitstream%20Vera%20Sans%20Mono%20font" title="Search with Google: Bitstream Vera Sans Mono font" alt="Search with Google: Bitstream Vera Sans Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1890,7 +1885,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-019-borg-sans-mono"  name="font-019-borg-sans-mono"></a>019 - <a href="https://github.com/marnen/borg-sans-mono/releases" title="Download Borg Sans Mono">Borg Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-019-borg-sans-mono"  name="font-019-borg-sans-mono"></a>019 - <a href="https://github.com/marnen/borg-sans-mono/releases" title="Download Borg Sans Mono">Borg Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Borg%20Sans%20Mono%20font" title="Search with Google: Borg Sans Mono font" alt="Search with Google: Borg Sans Mono font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1911,7 +1906,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-020-caffeine-mono"  name="font-020-caffeine-mono"></a>020 - <a href="https://fontesk.com/caffeine-mono-font/" title="Download Caffeine Mono">Caffeine Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-020-caffeine-mono"  name="font-020-caffeine-mono"></a>020 - <a href="https://fontesk.com/caffeine-mono-font/" title="Download Caffeine Mono">Caffeine Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Caffeine%20Mono%20font" title="Search with Google: Caffeine Mono font" alt="Search with Google: Caffeine Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1932,7 +1927,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-021-calling-code"  name="font-021-calling-code"></a>021 - <a href="https://fontesk.com/calling-code-font/" title="Download Calling Code">Calling Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-021-calling-code"  name="font-021-calling-code"></a>021 - <a href="https://fontesk.com/calling-code-font/" title="Download Calling Code">Calling Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Calling%20Code%20font" title="Search with Google: Calling Code font" alt="Search with Google: Calling Code font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1953,7 +1948,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-022-camingocode"  name="font-022-camingocode"></a>022 - <a href="https://www.janfromm.de/typefaces/camingomono/camingocode/" title="Download CamingoCode">CamingoCode</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-022-camingocode"  name="font-022-camingocode"></a>022 - <a href="https://www.janfromm.de/typefaces/camingomono/camingocode/" title="Download CamingoCode">CamingoCode</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=CamingoCode%20font" title="Search with Google: CamingoCode font" alt="Search with Google: CamingoCode font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1974,7 +1969,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-023-cascadia-code"  name="font-023-cascadia-code"></a>023 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Code">Cascadia Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-023-cascadia-code"  name="font-023-cascadia-code"></a>023 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Code">Cascadia Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Cascadia%20Code%20font" title="Search with Google: Cascadia Code font" alt="Search with Google: Cascadia Code font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1995,7 +1990,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-024-cascadia-mono"  name="font-024-cascadia-mono"></a>024 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Mono">Cascadia Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-024-cascadia-mono"  name="font-024-cascadia-mono"></a>024 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Mono">Cascadia Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Cascadia%20Mono%20font" title="Search with Google: Cascadia Mono font" alt="Search with Google: Cascadia Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2016,7 +2011,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-025-caskaydia-cove"  name="font-025-caskaydia-cove"></a>025 - <a href="https://fontesk.com/caskaydia-cove-typeface/" title="Download Caskaydia Cove">Caskaydia Cove</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-025-caskaydia-cove"  name="font-025-caskaydia-cove"></a>025 - <a href="https://fontesk.com/caskaydia-cove-typeface/" title="Download Caskaydia Cove">Caskaydia Cove</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Caskaydia%20Cove%20font" title="Search with Google: Caskaydia Cove font" alt="Search with Google: Caskaydia Cove font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2037,7 +2032,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-026-cispeo"  name="font-026-cispeo"></a>026 - <a href="https://fontsarena.com/cispeo-by-lucas-descroix/" title="Download Cispeo">Cispeo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-026-cispeo"  name="font-026-cispeo"></a>026 - <a href="https://fontsarena.com/cispeo-by-lucas-descroix/" title="Download Cispeo">Cispeo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Cispeo%20font" title="Search with Google: Cispeo font" alt="Search with Google: Cispeo font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2058,7 +2053,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-027-code-new-roman"  name="font-027-code-new-roman"></a>027 - <a href="https://www.dafont.com/code-new-roman.font" title="Download Code New Roman">Code New Roman</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-027-code-new-roman"  name="font-027-code-new-roman"></a>027 - <a href="https://www.dafont.com/code-new-roman.font" title="Download Code New Roman">Code New Roman</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Code%20New%20Roman%20font" title="Search with Google: Code New Roman font" alt="Search with Google: Code New Roman font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2079,7 +2074,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-028-codee-sans-mono"  name="font-028-codee-sans-mono"></a>028 - <a href="https://fontesk.com/codee-sans-mono-font/" title="Download Codee Sans Mono">Codee Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-028-codee-sans-mono"  name="font-028-codee-sans-mono"></a>028 - <a href="https://fontesk.com/codee-sans-mono-font/" title="Download Codee Sans Mono">Codee Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Codee%20Sans%20Mono%20font" title="Search with Google: Codee Sans Mono font" alt="Search with Google: Codee Sans Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2100,7 +2095,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-029-codetta"  name="font-029-codetta"></a>029 - <a href="https://fontesk.com/codetta-typeface/" title="Download Codetta">Codetta</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-029-codetta"  name="font-029-codetta"></a>029 - <a href="https://fontesk.com/codetta-typeface/" title="Download Codetta">Codetta</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Codetta%20font" title="Search with Google: Codetta font" alt="Search with Google: Codetta font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2121,7 +2116,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-030-comic-shanns-regular"  name="font-030-comic-shanns-regular"></a>030 - <a href="https://github.com/shannpersand/comic-shanns" title="Download Comic Shanns Regular">Comic Shanns Regular</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-030-comic-shanns-regular"  name="font-030-comic-shanns-regular"></a>030 - <a href="https://github.com/shannpersand/comic-shanns" title="Download Comic Shanns Regular">Comic Shanns Regular</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Comic%20Shanns%20Regular%20font" title="Search with Google: Comic Shanns Regular font" alt="Search with Google: Comic Shanns Regular font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2142,7 +2137,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-031-consola-mono"  name="font-031-consola-mono"></a>031 - <a href="https://fontlibrary.org/en/font/consolamono" title="Download Consola Mono">Consola Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-031-consola-mono"  name="font-031-consola-mono"></a>031 - <a href="https://fontlibrary.org/en/font/consolamono" title="Download Consola Mono">Consola Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Consola%20Mono%20font" title="Search with Google: Consola Mono font" alt="Search with Google: Consola Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2163,7 +2158,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-032-consolas-ligaturized-v2"  name="font-032-consolas-ligaturized-v2"></a>032 - <a href="https://github.com/somq/consolas-ligaturized/" title="Download Consolas Ligaturized v2">Consolas Ligaturized v2</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-032-consolas-ligaturized-v2"  name="font-032-consolas-ligaturized-v2"></a>032 - <a href="https://github.com/somq/consolas-ligaturized/" title="Download Consolas Ligaturized v2">Consolas Ligaturized v2</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Consolas%20Ligaturized%20v2%20font" title="Search with Google: Consolas Ligaturized v2 font" alt="Search with Google: Consolas Ligaturized v2 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2184,7 +2179,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-033-consolate-elf"  name="font-033-consolate-elf"></a>033 - <a href="https://www.cufonfonts.com/font/consolate-elf" title="Download Consolate Elf">Consolate Elf</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-033-consolate-elf"  name="font-033-consolate-elf"></a>033 - <a href="https://www.cufonfonts.com/font/consolate-elf" title="Download Consolate Elf">Consolate Elf</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Consolate%20Elf%20font" title="Search with Google: Consolate Elf font" alt="Search with Google: Consolate Elf font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2205,7 +2200,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-034-conta"  name="font-034-conta"></a>034 - <a href="https://fontesk.com/conta-typeface/" title="Download Conta">Conta</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
+<a id="font-034-conta"  name="font-034-conta"></a>034 - <a href="https://fontesk.com/conta-typeface/" title="Download Conta">Conta</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Conta%20font" title="Search with Google: Conta font" alt="Search with Google: Conta font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2226,7 +2221,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-035-cosmicsansneuemono"  name="font-035-cosmicsansneuemono"></a>035 - <a href="https://github.com/gregkh/cosmic-sans-neue" title="Download CosmicSansNeueMono">CosmicSansNeueMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-035-cosmicsansneuemono"  name="font-035-cosmicsansneuemono"></a>035 - <a href="https://github.com/gregkh/cosmic-sans-neue" title="Download CosmicSansNeueMono">CosmicSansNeueMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=CosmicSansNeueMono%20font" title="Search with Google: CosmicSansNeueMono font" alt="Search with Google: CosmicSansNeueMono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2247,7 +2242,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-036-courier-prime"  name="font-036-courier-prime"></a>036 - <a href="https://quoteunquoteapps.com/courierprime/downloads/courier-prime.zip" title="Download Courier Prime">Courier Prime</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
+<a id="font-036-courier-prime"  name="font-036-courier-prime"></a>036 - <a href="https://quoteunquoteapps.com/courierprime/downloads/courier-prime.zip" title="Download Courier Prime">Courier Prime</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Courier%20Prime%20font" title="Search with Google: Courier Prime font" alt="Search with Google: Courier Prime font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2268,7 +2263,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-037-courier-prime-code"  name="font-037-courier-prime-code"></a>037 - <a href="https://quoteunquoteapps.com/courierprime/downloads/courier-prime-code.zip" title="Download Courier Prime Code">Courier Prime Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-037-courier-prime-code"  name="font-037-courier-prime-code"></a>037 - <a href="https://quoteunquoteapps.com/courierprime/downloads/courier-prime-code.zip" title="Download Courier Prime Code">Courier Prime Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Courier%20Prime%20Code%20font" title="Search with Google: Courier Prime Code font" alt="Search with Google: Courier Prime Code font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2289,7 +2284,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-038-courier-prime-sans"  name="font-038-courier-prime-sans"></a>038 - <a href="https://quoteunquoteapps.com/courierprime/downloads/courier-prime-sans.zip" title="Download Courier Prime Sans">Courier Prime Sans</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;]</span></div>
+<a id="font-038-courier-prime-sans"  name="font-038-courier-prime-sans"></a>038 - <a href="https://quoteunquoteapps.com/courierprime/downloads/courier-prime-sans.zip" title="Download Courier Prime Sans">Courier Prime Sans</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Courier%20Prime%20Sans%20font" title="Search with Google: Courier Prime Sans font" alt="Search with Google: Courier Prime Sans font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2310,7 +2305,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-039-cousine"  name="font-039-cousine"></a>039 - <a href="https://www.fontsc.com/font/download/cousine" title="Download Cousine">Cousine</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-039-cousine"  name="font-039-cousine"></a>039 - <a href="https://www.fontsc.com/font/download/cousine" title="Download Cousine">Cousine</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Cousine%20font" title="Search with Google: Cousine font" alt="Search with Google: Cousine font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2331,7 +2326,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-040-cozettevector"  name="font-040-cozettevector"></a>040 - <a href="https://github.com/slavfox/Cozette/releases" title="Download CozetteVector">CozetteVector</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-040-cozettevector"  name="font-040-cozettevector"></a>040 - <a href="https://github.com/slavfox/Cozette/releases" title="Download CozetteVector">CozetteVector</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=CozetteVector%20font" title="Search with Google: CozetteVector font" alt="Search with Google: CozetteVector font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;&#127345;&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2352,7 +2347,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-041-cutive-mono"  name="font-041-cutive-mono"></a>041 - <a href="https://fonts.google.com/specimen/Cutive+Mono?category=Monospace" title="Download Cutive Mono">Cutive Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-041-cutive-mono"  name="font-041-cutive-mono"></a>041 - <a href="https://fonts.google.com/specimen/Cutive+Mono?category=Monospace" title="Download Cutive Mono">Cutive Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Cutive%20Mono%20font" title="Search with Google: Cutive Mono font" alt="Search with Google: Cutive Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2373,7 +2368,7 @@ Anka/Coder Narrow: Copy the font name including single quotes 'Anka/Coder Narrow
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-042-d2coding-ligature"  name="font-042-d2coding-ligature"></a>042 - <a href="https://github.com/naver/d2codingfont" title="Download D2Coding Ligature">D2Coding Ligature</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-042-d2coding-ligature"  name="font-042-d2coding-ligature"></a>042 - <a href="https://github.com/naver/d2codingfont" title="Download D2Coding Ligature">D2Coding Ligature</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=D2Coding%20Ligature%20font" title="Search with Google: D2Coding Ligature font" alt="Search with Google: D2Coding Ligature font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2398,7 +2393,7 @@ D2Coding Ligature: There is also a version without ligatures.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-043-dm-mono"  name="font-043-dm-mono"></a>043 - <a href="https://fonts.google.com/specimen/DM+Mono?category=Monospace&preview.size=11" title="Download DM Mono">DM Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-043-dm-mono"  name="font-043-dm-mono"></a>043 - <a href="https://fonts.google.com/specimen/DM+Mono?category=Monospace&preview.size=11" title="Download DM Mono">DM Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=DM%20Mono%20font" title="Search with Google: DM Mono font" alt="Search with Google: DM Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2419,7 +2414,7 @@ D2Coding Ligature: There is also a version without ligatures.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-044-daddytimemono"  name="font-044-daddytimemono"></a>044 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono" title="Download DaddyTimeMono">DaddyTimeMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-044-daddytimemono"  name="font-044-daddytimemono"></a>044 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono" title="Download DaddyTimeMono">DaddyTimeMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=DaddyTimeMono%20font" title="Search with Google: DaddyTimeMono font" alt="Search with Google: DaddyTimeMono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2440,7 +2435,7 @@ D2Coding Ligature: There is also a version without ligatures.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-045-dank-mono"  name="font-045-dank-mono"></a>045 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Dank Mono">Dank Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-045-dank-mono"  name="font-045-dank-mono"></a>045 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Dank Mono">Dank Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Dank%20Mono%20font" title="Search with Google: Dank Mono font" alt="Search with Google: Dank Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2461,7 +2456,7 @@ D2Coding Ligature: There is also a version without ligatures.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-046-dejavu-sans-code"  name="font-046-dejavu-sans-code"></a>046 - <a href="https://github.com/SSNikolaevich/DejaVuSansCode/releases/" title="Download DejaVu Sans Code">DejaVu Sans Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-046-dejavu-sans-code"  name="font-046-dejavu-sans-code"></a>046 - <a href="https://github.com/SSNikolaevich/DejaVuSansCode/releases/" title="Download DejaVu Sans Code">DejaVu Sans Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=DejaVu%20Sans%20Code%20font" title="Search with Google: DejaVu Sans Code font" alt="Search with Google: DejaVu Sans Code font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2482,7 +2477,7 @@ D2Coding Ligature: There is also a version without ligatures.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-047-dejavu-sans-mono"  name="font-047-dejavu-sans-mono"></a>047 - <a href="https://sourceforge.net/projects/dejavu/" title="Download DejaVu Sans Mono">DejaVu Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-047-dejavu-sans-mono"  name="font-047-dejavu-sans-mono"></a>047 - <a href="https://sourceforge.net/projects/dejavu/" title="Download DejaVu Sans Mono">DejaVu Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=DejaVu%20Sans%20Mono%20font" title="Search with Google: DejaVu Sans Mono font" alt="Search with Google: DejaVu Sans Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2503,7 +2498,7 @@ D2Coding Ligature: There is also a version without ligatures.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-048-dejavu-sans-mono---bront"  name="font-048-dejavu-sans-mono---bront"></a>048 - <a href="https://github.com/chrismwendt/bront" title="Download DejaVu Sans Mono - Bront">DejaVu Sans Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-048-dejavu-sans-mono---bront"  name="font-048-dejavu-sans-mono---bront"></a>048 - <a href="https://github.com/chrismwendt/bront" title="Download DejaVu Sans Mono - Bront">DejaVu Sans Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=DejaVu%20Sans%20Mono%20-%20Bront%20font" title="Search with Google: DejaVu Sans Mono - Bront font" alt="Search with Google: DejaVu Sans Mono - Bront font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2528,7 +2523,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-049-drafting-mono"  name="font-049-drafting-mono"></a>049 - <a href="https://fontesk.com/drafting-mono-typeface/" title="Download Drafting Mono">Drafting Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-049-drafting-mono"  name="font-049-drafting-mono"></a>049 - <a href="https://fontesk.com/drafting-mono-typeface/" title="Download Drafting Mono">Drafting Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Drafting%20Mono%20font" title="Search with Google: Drafting Mono font" alt="Search with Google: Drafting Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2549,7 +2544,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-050-droid-sans-mono"  name="font-050-droid-sans-mono"></a>050 - <a href="https://www.fontsquirrel.com/fonts/download/droid-sans" title="Download Droid Sans Mono">Droid Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
+<a id="font-050-droid-sans-mono"  name="font-050-droid-sans-mono"></a>050 - <a href="https://www.fontsquirrel.com/fonts/download/droid-sans" title="Download Droid Sans Mono">Droid Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Droid%20Sans%20Mono%20font" title="Search with Google: Droid Sans Mono font" alt="Search with Google: Droid Sans Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2570,7 +2565,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-051-drucifer"  name="font-051-drucifer"></a>051 - <a href="https://github.com/drucifer/drucifer-monospace" title="Download Drucifer">Drucifer</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-051-drucifer"  name="font-051-drucifer"></a>051 - <a href="https://github.com/drucifer/drucifer-monospace" title="Download Drucifer">Drucifer</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Drucifer%20font" title="Search with Google: Drucifer font" alt="Search with Google: Drucifer font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2591,7 +2586,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-052-envy-code-r"  name="font-052-envy-code-r"></a>052 - <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released" title="Download Envy Code R">Envy Code R</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-052-envy-code-r"  name="font-052-envy-code-r"></a>052 - <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released" title="Download Envy Code R">Envy Code R</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Envy%20Code%20R%20font" title="Search with Google: Envy Code R font" alt="Search with Google: Envy Code R font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2612,7 +2607,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-053-fairfax"  name="font-053-fairfax"></a>053 - <a href="http://www.kreativekorp.com/software/fonts/fairfax.shtml" title="Download Fairfax">Fairfax</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-053-fairfax"  name="font-053-fairfax"></a>053 - <a href="http://www.kreativekorp.com/software/fonts/fairfax.shtml" title="Download Fairfax">Fairfax</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Fairfax%20font" title="Search with Google: Fairfax font" alt="Search with Google: Fairfax font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2633,7 +2628,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-054-fairfax-hd"  name="font-054-fairfax-hd"></a>054 - <a href="http://www.kreativekorp.com/software/fonts/fairfaxhd.shtml" title="Download Fairfax HD">Fairfax HD</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-054-fairfax-hd"  name="font-054-fairfax-hd"></a>054 - <a href="http://www.kreativekorp.com/software/fonts/fairfaxhd.shtml" title="Download Fairfax HD">Fairfax HD</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Fairfax%20HD%20font" title="Search with Google: Fairfax HD font" alt="Search with Google: Fairfax HD font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2654,7 +2649,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-055-fairfax-serif"  name="font-055-fairfax-serif"></a>055 - <a href="http://www.kreativekorp.com/software/fonts/fairfax.shtml" title="Download Fairfax Serif">Fairfax Serif</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-055-fairfax-serif"  name="font-055-fairfax-serif"></a>055 - <a href="http://www.kreativekorp.com/software/fonts/fairfax.shtml" title="Download Fairfax Serif">Fairfax Serif</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Fairfax%20Serif%20font" title="Search with Google: Fairfax Serif font" alt="Search with Google: Fairfax Serif font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2675,7 +2670,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-056-fantasque-sans-mono"  name="font-056-fantasque-sans-mono"></a>056 - <a href="https://github.com/belluzj/fantasque-sans/releases" title="Download Fantasque Sans Mono">Fantasque Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-056-fantasque-sans-mono"  name="font-056-fantasque-sans-mono"></a>056 - <a href="https://github.com/belluzj/fantasque-sans/releases" title="Download Fantasque Sans Mono">Fantasque Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Fantasque%20Sans%20Mono%20font" title="Search with Google: Fantasque Sans Mono font" alt="Search with Google: Fantasque Sans Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2696,7 +2691,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-057-fira-code"  name="font-057-fira-code"></a>057 - <a href="https://github.com/tonsky/FiraCode" title="Download Fira Code">Fira Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-057-fira-code"  name="font-057-fira-code"></a>057 - <a href="https://github.com/tonsky/FiraCode" title="Download Fira Code">Fira Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Fira%20Code%20font" title="Search with Google: Fira Code font" alt="Search with Google: Fira Code font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2717,7 +2712,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-058-fira-code-iscript"  name="font-058-fira-code-iscript"></a>058 - <a href="https://github.com/kencrocken/FiraCodeiScript" title="Download Fira Code iScript">Fira Code iScript</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-058-fira-code-iscript"  name="font-058-fira-code-iscript"></a>058 - <a href="https://github.com/kencrocken/FiraCodeiScript" title="Download Fira Code iScript">Fira Code iScript</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Fira%20Code%20iScript%20font" title="Search with Google: Fira Code iScript font" alt="Search with Google: Fira Code iScript font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2777,7 +2772,7 @@ Fira Code iScript: Fira Code iScript = Fira Code + Script12 Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-059-fira-mono"  name="font-059-fira-mono"></a>059 - <a href="https://fonts.google.com/specimen/Fira+Mono" title="Download Fira Mono">Fira Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-059-fira-mono"  name="font-059-fira-mono"></a>059 - <a href="https://fonts.google.com/specimen/Fira+Mono" title="Download Fira Mono">Fira Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Fira%20Mono%20font" title="Search with Google: Fira Mono font" alt="Search with Google: Fira Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2798,7 +2793,7 @@ Fira Code iScript: Fira Code iScript = Fira Code + Script12 Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-060-firaflott"  name="font-060-firaflott"></a>060 - <a href="https://github.com/kosimst/FiraFlott" title="Download FiraFlott">FiraFlott</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-060-firaflott"  name="font-060-firaflott"></a>060 - <a href="https://github.com/kosimst/FiraFlott" title="Download FiraFlott">FiraFlott</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=FiraFlott%20font" title="Search with Google: FiraFlott font" alt="Search with Google: FiraFlott font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2858,7 +2853,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-061-freemono"  name="font-061-freemono"></a>061 - <a href="https://fontmeme.com/fonts/freemono-font/" title="Download FreeMono">FreeMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;]</span></div>
+<a id="font-061-freemono"  name="font-061-freemono"></a>061 - <a href="https://fontmeme.com/fonts/freemono-font/" title="Download FreeMono">FreeMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=FreeMono%20font" title="Search with Google: FreeMono font" alt="Search with Google: FreeMono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2879,7 +2874,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-062-gt-pressura-mono"  name="font-062-gt-pressura-mono"></a>062 - <a href="http://font2s.com/fonts/50932/" title="Download GT Pressura Mono">GT Pressura Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;]</span></div>
+<a id="font-062-gt-pressura-mono"  name="font-062-gt-pressura-mono"></a>062 - <a href="http://font2s.com/fonts/50932/" title="Download GT Pressura Mono">GT Pressura Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=GT%20Pressura%20Mono%20font" title="Search with Google: GT Pressura Mono font" alt="Search with Google: GT Pressura Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2900,7 +2895,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-063-generic-mono-ii"  name="font-063-generic-mono-ii"></a>063 - <a href="https://www.download-free-fonts.com/details/91877/generic-mono-ii-regular" title="Download Generic Mono II">Generic Mono II</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-063-generic-mono-ii"  name="font-063-generic-mono-ii"></a>063 - <a href="https://www.download-free-fonts.com/details/91877/generic-mono-ii-regular" title="Download Generic Mono II">Generic Mono II</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Generic%20Mono%20II%20font" title="Search with Google: Generic Mono II font" alt="Search with Google: Generic Mono II font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2921,7 +2916,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-064-gintronic"  name="font-064-gintronic"></a>064 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Gintronic">Gintronic</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-064-gintronic"  name="font-064-gintronic"></a>064 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Gintronic">Gintronic</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Gintronic%20font" title="Search with Google: Gintronic font" alt="Search with Google: Gintronic font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2942,7 +2937,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-065-go-mono"  name="font-065-go-mono"></a>065 - <a href="https://www.fontmirror.com/go-mono/" title="Download Go Mono">Go Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-065-go-mono"  name="font-065-go-mono"></a>065 - <a href="https://www.fontmirror.com/go-mono/" title="Download Go Mono">Go Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Go%20Mono%20font" title="Search with Google: Go Mono font" alt="Search with Google: Go Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2963,7 +2958,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-066-hack"  name="font-066-hack"></a>066 - <a href="https://sourcefoundry.org/hack" title="Download Hack">Hack</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-066-hack"  name="font-066-hack"></a>066 - <a href="https://sourcefoundry.org/hack" title="Download Hack">Hack</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Hack%20font" title="Search with Google: Hack font" alt="Search with Google: Hack font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2984,7 +2979,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-067-hasklig"  name="font-067-hasklig"></a>067 - <a href="https://github.com/i-tu/Hasklig" title="Download Hasklig">Hasklig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-067-hasklig"  name="font-067-hasklig"></a>067 - <a href="https://github.com/i-tu/Hasklig" title="Download Hasklig">Hasklig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Hasklig%20font" title="Search with Google: Hasklig font" alt="Search with Google: Hasklig font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3009,7 +3004,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-068-hermit"  name="font-068-hermit"></a>068 - <a href="https://pcaro.es/p/hermit/" title="Download Hermit">Hermit</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-068-hermit"  name="font-068-hermit"></a>068 - <a href="https://pcaro.es/p/hermit/" title="Download Hermit">Hermit</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Hermit%20font" title="Search with Google: Hermit font" alt="Search with Google: Hermit font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3030,7 +3025,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-069-ibm-plex-mono"  name="font-069-ibm-plex-mono"></a>069 - <a href="https://fonts.google.com/specimen/IBM+Plex+Mono" title="Download IBM Plex Mono">IBM Plex Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-069-ibm-plex-mono"  name="font-069-ibm-plex-mono"></a>069 - <a href="https://fonts.google.com/specimen/IBM+Plex+Mono" title="Download IBM Plex Mono">IBM Plex Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=IBM%20Plex%20Mono%20font" title="Search with Google: IBM Plex Mono font" alt="Search with Google: IBM Plex Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3051,7 +3046,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-070-inconsolata"  name="font-070-inconsolata"></a>070 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata">Inconsolata</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-070-inconsolata"  name="font-070-inconsolata"></a>070 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata">Inconsolata</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Inconsolata%20font" title="Search with Google: Inconsolata font" alt="Search with Google: Inconsolata font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3072,7 +3067,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-071-inconsolata-g"  name="font-071-inconsolata-g"></a>071 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata-g">Inconsolata-g</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-071-inconsolata-g"  name="font-071-inconsolata-g"></a>071 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata-g">Inconsolata-g</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Inconsolata-g%20font" title="Search with Google: Inconsolata-g font" alt="Search with Google: Inconsolata-g font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3093,7 +3088,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-072-input-mono"  name="font-072-input-mono"></a>072 - <a href="https://input.fontbureau.com/download" title="Download Input Mono">Input Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-072-input-mono"  name="font-072-input-mono"></a>072 - <a href="https://input.fontbureau.com/download" title="Download Input Mono">Input Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Input%20Mono%20font" title="Search with Google: Input Mono font" alt="Search with Google: Input Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3114,7 +3109,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-073-input-mono-condensed"  name="font-073-input-mono-condensed"></a>073 - <a href="https://input.fontbureau.com/download" title="Download Input Mono Condensed">Input Mono Condensed</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-073-input-mono-condensed"  name="font-073-input-mono-condensed"></a>073 - <a href="https://input.fontbureau.com/download" title="Download Input Mono Condensed">Input Mono Condensed</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Input%20Mono%20Condensed%20font" title="Search with Google: Input Mono Condensed font" alt="Search with Google: Input Mono Condensed font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3135,7 +3130,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-074-iosevka"  name="font-074-iosevka"></a>074 - <a href="https://typeof.net/Iosevka" title="Download Iosevka">Iosevka</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-074-iosevka"  name="font-074-iosevka"></a>074 - <a href="https://typeof.net/Iosevka" title="Download Iosevka">Iosevka</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20font" title="Search with Google: Iosevka font" alt="Search with Google: Iosevka font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3160,7 +3155,7 @@ Iosevka: Monospace, Default - Many version of this font by Key Shape, Spacing an
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-075-iosevka-curly"  name="font-075-iosevka-curly"></a>075 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly">Iosevka Curly</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-075-iosevka-curly"  name="font-075-iosevka-curly"></a>075 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly">Iosevka Curly</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20Curly%20font" title="Search with Google: Iosevka Curly font" alt="Search with Google: Iosevka Curly font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3185,7 +3180,7 @@ Iosevka Curly: Monospace, Curly.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-076-iosevka-curly-slab"  name="font-076-iosevka-curly-slab"></a>076 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly Slab">Iosevka Curly Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-076-iosevka-curly-slab"  name="font-076-iosevka-curly-slab"></a>076 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly Slab">Iosevka Curly Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20Curly%20Slab%20font" title="Search with Google: Iosevka Curly Slab font" alt="Search with Google: Iosevka Curly Slab font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3210,7 +3205,7 @@ Iosevka Curly Slab: Monospace, Curly Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-077-iosevka-ss01"  name="font-077-iosevka-ss01"></a>077 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS01">Iosevka SS01</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-077-iosevka-ss01"  name="font-077-iosevka-ss01"></a>077 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS01">Iosevka SS01</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS01%20font" title="Search with Google: Iosevka SS01 font" alt="Search with Google: Iosevka SS01 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3235,7 +3230,7 @@ Iosevka SS01: Monospace, Andale Mono Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-078-iosevka-ss02"  name="font-078-iosevka-ss02"></a>078 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS02">Iosevka SS02</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-078-iosevka-ss02"  name="font-078-iosevka-ss02"></a>078 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS02">Iosevka SS02</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS02%20font" title="Search with Google: Iosevka SS02 font" alt="Search with Google: Iosevka SS02 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3260,7 +3255,7 @@ Iosevka SS02: Monospace, Anonymous Pro Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-079-iosevka-ss03"  name="font-079-iosevka-ss03"></a>079 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS03">Iosevka SS03</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-079-iosevka-ss03"  name="font-079-iosevka-ss03"></a>079 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS03">Iosevka SS03</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS03%20font" title="Search with Google: Iosevka SS03 font" alt="Search with Google: Iosevka SS03 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3285,7 +3280,7 @@ Iosevka SS03: Monospace, Consolas Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-080-iosevka-ss04"  name="font-080-iosevka-ss04"></a>080 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS04">Iosevka SS04</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-080-iosevka-ss04"  name="font-080-iosevka-ss04"></a>080 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS04">Iosevka SS04</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS04%20font" title="Search with Google: Iosevka SS04 font" alt="Search with Google: Iosevka SS04 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3310,7 +3305,7 @@ Iosevka SS04: Monospace, Menlo Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-081-iosevka-ss05"  name="font-081-iosevka-ss05"></a>081 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS05">Iosevka SS05</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-081-iosevka-ss05"  name="font-081-iosevka-ss05"></a>081 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS05">Iosevka SS05</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS05%20font" title="Search with Google: Iosevka SS05 font" alt="Search with Google: Iosevka SS05 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3335,7 +3330,7 @@ Iosevka SS05: Monospace, Fira Mono Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-082-iosevka-ss06"  name="font-082-iosevka-ss06"></a>082 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS06">Iosevka SS06</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-082-iosevka-ss06"  name="font-082-iosevka-ss06"></a>082 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS06">Iosevka SS06</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS06%20font" title="Search with Google: Iosevka SS06 font" alt="Search with Google: Iosevka SS06 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3360,7 +3355,7 @@ Iosevka SS06: Monospace, Liberation Mono Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-083-iosevka-ss07"  name="font-083-iosevka-ss07"></a>083 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS07">Iosevka SS07</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-083-iosevka-ss07"  name="font-083-iosevka-ss07"></a>083 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS07">Iosevka SS07</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS07%20font" title="Search with Google: Iosevka SS07 font" alt="Search with Google: Iosevka SS07 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3385,7 +3380,7 @@ Iosevka SS07: Monospace, Monaco Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-084-iosevka-ss08"  name="font-084-iosevka-ss08"></a>084 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS08">Iosevka SS08</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-084-iosevka-ss08"  name="font-084-iosevka-ss08"></a>084 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS08">Iosevka SS08</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS08%20font" title="Search with Google: Iosevka SS08 font" alt="Search with Google: Iosevka SS08 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3410,7 +3405,7 @@ Iosevka SS08: Monospace, Pragmata Pro Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-085-iosevka-ss09"  name="font-085-iosevka-ss09"></a>085 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS09">Iosevka SS09</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-085-iosevka-ss09"  name="font-085-iosevka-ss09"></a>085 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS09">Iosevka SS09</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS09%20font" title="Search with Google: Iosevka SS09 font" alt="Search with Google: Iosevka SS09 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3435,7 +3430,7 @@ Iosevka SS09: Monospace, Source Code Pro Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-086-iosevka-ss10"  name="font-086-iosevka-ss10"></a>086 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS10">Iosevka SS10</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-086-iosevka-ss10"  name="font-086-iosevka-ss10"></a>086 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS10">Iosevka SS10</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS10%20font" title="Search with Google: Iosevka SS10 font" alt="Search with Google: Iosevka SS10 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3460,7 +3455,7 @@ Iosevka SS10: Monospace, Envy Code R Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-087-iosevka-ss11"  name="font-087-iosevka-ss11"></a>087 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS11">Iosevka SS11</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-087-iosevka-ss11"  name="font-087-iosevka-ss11"></a>087 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS11">Iosevka SS11</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS11%20font" title="Search with Google: Iosevka SS11 font" alt="Search with Google: Iosevka SS11 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3485,7 +3480,7 @@ Iosevka SS11: Monospace, X Windows Fixed Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-088-iosevka-ss12"  name="font-088-iosevka-ss12"></a>088 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS12">Iosevka SS12</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-088-iosevka-ss12"  name="font-088-iosevka-ss12"></a>088 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS12">Iosevka SS12</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS12%20font" title="Search with Google: Iosevka SS12 font" alt="Search with Google: Iosevka SS12 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3510,7 +3505,7 @@ Iosevka SS12: Monospace, Ubuntu Mono Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-089-iosevka-ss13"  name="font-089-iosevka-ss13"></a>089 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS13">Iosevka SS13</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-089-iosevka-ss13"  name="font-089-iosevka-ss13"></a>089 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS13">Iosevka SS13</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS13%20font" title="Search with Google: Iosevka SS13 font" alt="Search with Google: Iosevka SS13 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3535,7 +3530,7 @@ Iosevka SS13: Monospace, Lucida Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-090-iosevka-ss14"  name="font-090-iosevka-ss14"></a>090 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS14">Iosevka SS14</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-090-iosevka-ss14"  name="font-090-iosevka-ss14"></a>090 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS14">Iosevka SS14</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20SS14%20font" title="Search with Google: Iosevka SS14 font" alt="Search with Google: Iosevka SS14 font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3560,7 +3555,7 @@ Iosevka SS14: Monospace, JetBrains Mono Style
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-091-iosevka-slab"  name="font-091-iosevka-slab"></a>091 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Slab">Iosevka Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-091-iosevka-slab"  name="font-091-iosevka-slab"></a>091 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Slab">Iosevka Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Iosevka%20Slab%20font" title="Search with Google: Iosevka Slab font" alt="Search with Google: Iosevka Slab font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3585,7 +3580,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-092-jetbrains-mono"  name="font-092-jetbrains-mono"></a>092 - <a href="https://www.jetbrains.com/lp/mono/" title="Download JetBrains Mono">JetBrains Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-092-jetbrains-mono"  name="font-092-jetbrains-mono"></a>092 - <a href="https://www.jetbrains.com/lp/mono/" title="Download JetBrains Mono">JetBrains Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=JetBrains%20Mono%20font" title="Search with Google: JetBrains Mono font" alt="Search with Google: JetBrains Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3606,7 +3601,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-093-juliamono"  name="font-093-juliamono"></a>093 - <a href="https://juliamono.netlify.app/download/" title="Download JuliaMono">JuliaMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-093-juliamono"  name="font-093-juliamono"></a>093 - <a href="https://juliamono.netlify.app/download/" title="Download JuliaMono">JuliaMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=JuliaMono%20font" title="Search with Google: JuliaMono font" alt="Search with Google: JuliaMono font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3627,7 +3622,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-094-kawkab-mono"  name="font-094-kawkab-mono"></a>094 - <a href="https://fontsgeek.com/fonts/kawkab-mono-regular#" title="Download KawKab Mono">KawKab Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-094-kawkab-mono"  name="font-094-kawkab-mono"></a>094 - <a href="https://fontsgeek.com/fonts/kawkab-mono-regular#" title="Download KawKab Mono">KawKab Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=KawKab%20Mono%20font" title="Search with Google: KawKab Mono font" alt="Search with Google: KawKab Mono font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3648,7 +3643,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-095-lab-mono"  name="font-095-lab-mono"></a>095 - <a href="https://fontesk.com/lab-mono-font/" title="Download Lab Mono">Lab Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-095-lab-mono"  name="font-095-lab-mono"></a>095 - <a href="https://fontesk.com/lab-mono-font/" title="Download Lab Mono">Lab Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Lab%20Mono%20font" title="Search with Google: Lab Mono font" alt="Search with Google: Lab Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3669,7 +3664,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-096-lekton"  name="font-096-lekton"></a>096 - <a href="https://fonts.google.com/specimen/Lekton" title="Download Lekton">Lekton</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-096-lekton"  name="font-096-lekton"></a>096 - <a href="https://fonts.google.com/specimen/Lekton" title="Download Lekton">Lekton</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Lekton%20font" title="Search with Google: Lekton font" alt="Search with Google: Lekton font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3690,7 +3685,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-097-liberation-mono"  name="font-097-liberation-mono"></a>097 - <a href="https://www.1001freefonts.com/liberation-mono.font" title="Download Liberation Mono">Liberation Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-097-liberation-mono"  name="font-097-liberation-mono"></a>097 - <a href="https://www.1001freefonts.com/liberation-mono.font" title="Download Liberation Mono">Liberation Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Liberation%20Mono%20font" title="Search with Google: Liberation Mono font" alt="Search with Google: Liberation Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3711,7 +3706,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-098-liga-monego"  name="font-098-liga-monego"></a>098 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Liga Monego">Liga Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-098-liga-monego"  name="font-098-liga-monego"></a>098 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Liga Monego">Liga Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Liga%20Monego%20font" title="Search with Google: Liga Monego font" alt="Search with Google: Liga Monego font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3736,7 +3731,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-099-lilex"  name="font-099-lilex"></a>099 - <a href="https://github.com/mishamyrt/Lilex/releases" title="Download Lilex">Lilex</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-099-lilex"  name="font-099-lilex"></a>099 - <a href="https://github.com/mishamyrt/Lilex/releases" title="Download Lilex">Lilex</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Lilex%20font" title="Search with Google: Lilex font" alt="Search with Google: Lilex font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3757,7 +3752,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-100-lotion"  name="font-100-lotion"></a>100 - <a href="https://font.nina.coffee/" title="Download Lotion">Lotion</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-100-lotion"  name="font-100-lotion"></a>100 - <a href="https://font.nina.coffee/" title="Download Lotion">Lotion</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Lotion%20font" title="Search with Google: Lotion font" alt="Search with Google: Lotion font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3778,7 +3773,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-101-luculent"  name="font-101-luculent"></a>101 - <a href="http://eastfarthing.com/luculent/luculent.zip" title="Download Luculent">Luculent</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-101-luculent"  name="font-101-luculent"></a>101 - <a href="http://eastfarthing.com/luculent/luculent.zip" title="Download Luculent">Luculent</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Luculent%20font" title="Search with Google: Luculent font" alt="Search with Google: Luculent font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3799,7 +3794,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-102-m-1m"  name="font-102-m-1m"></a>102 - <a href="https://www.fontsquirrel.com/fonts/M-1m" title="Download M+ 1m">M+ 1m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-102-m-1m"  name="font-102-m-1m"></a>102 - <a href="https://www.fontsquirrel.com/fonts/M-1m" title="Download M+ 1m">M+ 1m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=M%2B%201m%20font" title="Search with Google: M+ 1m font" alt="Search with Google: M+ 1m font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3820,7 +3815,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-103-m-2m"  name="font-103-m-2m"></a>103 - <a href="https://www.wfonts.com/download/data/2016/06/18/m-2m/m-2m.zip" title="Download M+ 2m">M+ 2m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-103-m-2m"  name="font-103-m-2m"></a>103 - <a href="https://www.wfonts.com/download/data/2016/06/18/m-2m/m-2m.zip" title="Download M+ 2m">M+ 2m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=M%2B%202m%20font" title="Search with Google: M+ 2m font" alt="Search with Google: M+ 2m font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3841,7 +3836,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-104-menlo"  name="font-104-menlo"></a>104 - <a href="https://github.com/hbin/top-programming-fonts" title="Download Menlo">Menlo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-104-menlo"  name="font-104-menlo"></a>104 - <a href="https://github.com/hbin/top-programming-fonts" title="Download Menlo">Menlo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Menlo%20font" title="Search with Google: Menlo font" alt="Search with Google: Menlo font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3862,7 +3857,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-105-mensch"  name="font-105-mensch"></a>105 - <a href="https://robey.lag.net/2010/06/21/mensch-font.html" title="Download Mensch">Mensch</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-105-mensch"  name="font-105-mensch"></a>105 - <a href="https://robey.lag.net/2010/06/21/mensch-font.html" title="Download Mensch">Mensch</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Mensch%20font" title="Search with Google: Mensch font" alt="Search with Google: Mensch font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3887,7 +3882,7 @@ Mensch: `Menlo` Tweaked
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-106-meslo-lg-m"  name="font-106-meslo-lg-m"></a>106 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG M">Meslo LG M</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-106-meslo-lg-m"  name="font-106-meslo-lg-m"></a>106 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG M">Meslo LG M</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Meslo%20LG%20M%20font" title="Search with Google: Meslo LG M font" alt="Search with Google: Meslo LG M font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3908,7 +3903,7 @@ Mensch: `Menlo` Tweaked
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-107-meslo-lg-s"  name="font-107-meslo-lg-s"></a>107 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG S">Meslo LG S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-107-meslo-lg-s"  name="font-107-meslo-lg-s"></a>107 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG S">Meslo LG S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Meslo%20LG%20S%20font" title="Search with Google: Meslo LG S font" alt="Search with Google: Meslo LG S font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3933,7 +3928,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-108-metrickal"  name="font-108-metrickal"></a>108 - <a href="https://github.com/robey/metrickal-typeface/tree/master/downloads" title="Download Metrickal">Metrickal</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-108-metrickal"  name="font-108-metrickal"></a>108 - <a href="https://github.com/robey/metrickal-typeface/tree/master/downloads" title="Download Metrickal">Metrickal</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Metrickal%20font" title="Search with Google: Metrickal font" alt="Search with Google: Metrickal font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3954,7 +3949,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-109-monaco"  name="font-109-monaco"></a>109 - <a href="https://www.fontmirror.com/monaco" title="Download Monaco">Monaco</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-109-monaco"  name="font-109-monaco"></a>109 - <a href="https://www.fontmirror.com/monaco" title="Download Monaco">Monaco</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Monaco%20font" title="Search with Google: Monaco font" alt="Search with Google: Monaco font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3975,7 +3970,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-110-monacob"  name="font-110-monacob"></a>110 - <a href="https://github.com/vjpr/monaco-bold" title="Download MonacoB">MonacoB</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-110-monacob"  name="font-110-monacob"></a>110 - <a href="https://github.com/vjpr/monaco-bold" title="Download MonacoB">MonacoB</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=MonacoB%20font" title="Search with Google: MonacoB font" alt="Search with Google: MonacoB font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -3996,7 +3991,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-111-monego"  name="font-111-monego"></a>111 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego">Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-111-monego"  name="font-111-monego"></a>111 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego">Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Monego%20font" title="Search with Google: Monego font" alt="Search with Google: Monego font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4017,7 +4012,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-112-monego-nerd-font"  name="font-112-monego-nerd-font"></a>112 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego Nerd Font">Monego Nerd Font</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-112-monego-nerd-font"  name="font-112-monego-nerd-font"></a>112 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego Nerd Font">Monego Nerd Font</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Monego%20Nerd%20Font%20font" title="Search with Google: Monego Nerd Font font" alt="Search with Google: Monego Nerd Font font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4042,7 +4037,7 @@ Monego Nerd Font: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-113-monofur-nf"  name="font-113-monofur-nf"></a>113 - <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur" title="Download Monofur NF">Monofur NF</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-113-monofur-nf"  name="font-113-monofur-nf"></a>113 - <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur" title="Download Monofur NF">Monofur NF</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Monofur%20NF%20font" title="Search with Google: Monofur NF font" alt="Search with Google: Monofur NF font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4067,7 +4062,7 @@ Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the 
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-114-monoid"  name="font-114-monoid"></a>114 - <a href="https://larsenwork.com/monoid/" title="Download Monoid">Monoid</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-114-monoid"  name="font-114-monoid"></a>114 - <a href="https://larsenwork.com/monoid/" title="Download Monoid">Monoid</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Monoid%20font" title="Search with Google: Monoid font" alt="Search with Google: Monoid font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4088,7 +4083,7 @@ Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the 
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-115-monoisome"  name="font-115-monoisome"></a>115 - <a href="https://larsenwork.com/monoid/" title="Download Monoisome">Monoisome</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-115-monoisome"  name="font-115-monoisome"></a>115 - <a href="https://larsenwork.com/monoid/" title="Download Monoisome">Monoisome</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Monoisome%20font" title="Search with Google: Monoisome font" alt="Search with Google: Monoisome font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4113,7 +4108,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-116-mononoki"  name="font-116-mononoki"></a>116 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Mononoki">Mononoki</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-116-mononoki"  name="font-116-mononoki"></a>116 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Mononoki">Mononoki</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Mononoki%20font" title="Search with Google: Mononoki font" alt="Search with Google: Mononoki font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4134,7 +4129,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-117-nf-code"  name="font-117-nf-code"></a>117 - <a href="https://fontesk.com/nf-code/" title="Download NF Code">NF Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-117-nf-code"  name="font-117-nf-code"></a>117 - <a href="https://fontesk.com/nf-code/" title="Download NF Code">NF Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=NF%20Code%20font" title="Search with Google: NF Code font" alt="Search with Google: NF Code font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4155,7 +4150,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-118-nk57-monospace"  name="font-118-nk57-monospace"></a>118 - <a href="https://www.1001freefonts.com/nk57-monospace.font" title="Download NK57 Monospace">NK57 Monospace</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-118-nk57-monospace"  name="font-118-nk57-monospace"></a>118 - <a href="https://www.1001freefonts.com/nk57-monospace.font" title="Download NK57 Monospace">NK57 Monospace</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=NK57%20Monospace%20font" title="Search with Google: NK57 Monospace font" alt="Search with Google: NK57 Monospace font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4176,7 +4171,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-119-nanumgothiccoding"  name="font-119-nanumgothiccoding"></a>119 - <a href="https://fonts.google.com/specimen/Nanum+Gothic+Coding&preview.size=12" title="Download NanumGothicCoding">NanumGothicCoding</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;]</span></div>
+<a id="font-119-nanumgothiccoding"  name="font-119-nanumgothiccoding"></a>119 - <a href="https://fonts.google.com/specimen/Nanum+Gothic+Coding&preview.size=12" title="Download NanumGothicCoding">NanumGothicCoding</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=NanumGothicCoding%20font" title="Search with Google: NanumGothicCoding font" alt="Search with Google: NanumGothicCoding font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4197,7 +4192,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-120-natural-mono"  name="font-120-natural-mono"></a>120 - <a href="https://fontlibrary.org/it/font/natural-mono" title="Download Natural Mono">Natural Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-120-natural-mono"  name="font-120-natural-mono"></a>120 - <a href="https://fontlibrary.org/it/font/natural-mono" title="Download Natural Mono">Natural Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Natural%20Mono%20font" title="Search with Google: Natural Mono font" alt="Search with Google: Natural Mono font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4218,7 +4213,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-121-natural-mono-alt"  name="font-121-natural-mono-alt"></a>121 - <a href="https://fontlibrary.org/it/font/natural-mono" title="Download Natural Mono Alt">Natural Mono Alt</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-121-natural-mono-alt"  name="font-121-natural-mono-alt"></a>121 - <a href="https://fontlibrary.org/it/font/natural-mono" title="Download Natural Mono Alt">Natural Mono Alt</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Natural%20Mono%20Alt%20font" title="Search with Google: Natural Mono Alt font" alt="Search with Google: Natural Mono Alt font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4239,7 +4234,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-122-nimbus-mono"  name="font-122-nimbus-mono"></a>122 - <a href="https://www.fontsquirrel.com/fonts/nimbus-mono" title="Download Nimbus Mono">Nimbus Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;]</span></div>
+<a id="font-122-nimbus-mono"  name="font-122-nimbus-mono"></a>122 - <a href="https://www.fontsquirrel.com/fonts/nimbus-mono" title="Download Nimbus Mono">Nimbus Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Nimbus%20Mono%20font" title="Search with Google: Nimbus Mono font" alt="Search with Google: Nimbus Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4260,7 +4255,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-123-notcourier"  name="font-123-notcourier"></a>123 - <a href="https://www.fontsquirrel.com/fonts/notcouriersans" title="Download NotCourier">NotCourier</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;]</span></div>
+<a id="font-123-notcourier"  name="font-123-notcourier"></a>123 - <a href="https://www.fontsquirrel.com/fonts/notcouriersans" title="Download NotCourier">NotCourier</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=NotCourier%20font" title="Search with Google: NotCourier font" alt="Search with Google: NotCourier font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4281,7 +4276,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-124-noto-mono"  name="font-124-noto-mono"></a>124 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Noto Mono">Noto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-124-noto-mono"  name="font-124-noto-mono"></a>124 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Noto Mono">Noto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Noto%20Mono%20font" title="Search with Google: Noto Mono font" alt="Search with Google: Noto Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4302,7 +4297,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-125-office-code-pro"  name="font-125-office-code-pro"></a>125 - <a href="https://github.com/nathco/Office-Code-Pro" title="Download Office Code Pro">Office Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-125-office-code-pro"  name="font-125-office-code-pro"></a>125 - <a href="https://github.com/nathco/Office-Code-Pro" title="Download Office Code Pro">Office Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Office%20Code%20Pro%20font" title="Search with Google: Office Code Pro font" alt="Search with Google: Office Code Pro font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4327,7 +4322,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-126-onuava"  name="font-126-onuava"></a>126 - <a href="https://www.urbanfonts.com/download?fid=9765&file=onuava.zip" title="Download Onuava">Onuava</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-126-onuava"  name="font-126-onuava"></a>126 - <a href="https://www.urbanfonts.com/download?fid=9765&file=onuava.zip" title="Download Onuava">Onuava</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Onuava%20font" title="Search with Google: Onuava font" alt="Search with Google: Onuava font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4348,7 +4343,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-127-operator-mono-lig"  name="font-127-operator-mono-lig"></a>127 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Operator Mono Lig">Operator Mono Lig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-127-operator-mono-lig"  name="font-127-operator-mono-lig"></a>127 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Operator Mono Lig">Operator Mono Lig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Operator%20Mono%20Lig%20font" title="Search with Google: Operator Mono Lig font" alt="Search with Google: Operator Mono Lig font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4369,7 +4364,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-128-overpass-mono"  name="font-128-overpass-mono"></a>128 - <a href="https://www.fontsc.com/font/download/overpass-mono" title="Download Overpass Mono">Overpass Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-128-overpass-mono"  name="font-128-overpass-mono"></a>128 - <a href="https://www.fontsc.com/font/download/overpass-mono" title="Download Overpass Mono">Overpass Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Overpass%20Mono%20font" title="Search with Google: Overpass Mono font" alt="Search with Google: Overpass Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4390,7 +4385,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-129-oxygen-mono"  name="font-129-oxygen-mono"></a>129 - <a href="https://www.fontsc.com/font/download/oxygen-mono" title="Download Oxygen Mono">Oxygen Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-129-oxygen-mono"  name="font-129-oxygen-mono"></a>129 - <a href="https://www.fontsc.com/font/download/oxygen-mono" title="Download Oxygen Mono">Oxygen Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Oxygen%20Mono%20font" title="Search with Google: Oxygen Mono font" alt="Search with Google: Oxygen Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4411,7 +4406,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-130-pt-mono"  name="font-130-pt-mono"></a>130 - <a href="https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono" title="Download PT Mono">PT Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-130-pt-mono"  name="font-130-pt-mono"></a>130 - <a href="https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono" title="Download PT Mono">PT Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=PT%20Mono%20font" title="Search with Google: PT Mono font" alt="Search with Google: PT Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4432,7 +4427,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-131-panic-sans"  name="font-131-panic-sans"></a>131 - <a href="https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans" title="Download Panic Sans">Panic Sans</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-131-panic-sans"  name="font-131-panic-sans"></a>131 - <a href="https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans" title="Download Panic Sans">Panic Sans</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Panic%20Sans%20font" title="Search with Google: Panic Sans font" alt="Search with Google: Panic Sans font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4453,7 +4448,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-132-pointfree"  name="font-132-pointfree"></a>132 - <a href="https://code.google.com/archive/p/i3project/downloads" title="Download Pointfree">Pointfree</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-132-pointfree"  name="font-132-pointfree"></a>132 - <a href="https://code.google.com/archive/p/i3project/downloads" title="Download Pointfree">Pointfree</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Pointfree%20font" title="Search with Google: Pointfree font" alt="Search with Google: Pointfree font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4474,7 +4469,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-133-proggyvector"  name="font-133-proggyvector"></a>133 - <a href="https://github.com/bluescan/proggyfonts" title="Download ProggyVector">ProggyVector</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
+<a id="font-133-proggyvector"  name="font-133-proggyvector"></a>133 - <a href="https://github.com/bluescan/proggyfonts" title="Download ProggyVector">ProggyVector</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=ProggyVector%20font" title="Search with Google: ProggyVector font" alt="Search with Google: ProggyVector font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4495,7 +4490,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-134-rec-mono-linear"  name="font-134-rec-mono-linear"></a>134 - <a href="https://github.com/arrowtype/recursive/tree/main/fonts/ArrowType-Recursive-1.078/Recursive_Code/RecMonoLinear" title="Download Rec Mono Linear">Rec Mono Linear</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-134-rec-mono-linear"  name="font-134-rec-mono-linear"></a>134 - <a href="https://github.com/arrowtype/recursive/tree/main/fonts/ArrowType-Recursive-1.078/Recursive_Code/RecMonoLinear" title="Download Rec Mono Linear">Rec Mono Linear</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Rec%20Mono%20Linear%20font" title="Search with Google: Rec Mono Linear font" alt="Search with Google: Rec Mono Linear font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4520,7 +4515,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-135-roboto-mono"  name="font-135-roboto-mono"></a>135 - <a href="https://fonts.google.com/specimen/Roboto+Mono" title="Download Roboto Mono">Roboto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-135-roboto-mono"  name="font-135-roboto-mono"></a>135 - <a href="https://fonts.google.com/specimen/Roboto+Mono" title="Download Roboto Mono">Roboto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Roboto%20Mono%20font" title="Search with Google: Roboto Mono font" alt="Search with Google: Roboto Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4541,7 +4536,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-136-sf-mono"  name="font-136-sf-mono"></a>136 - <a href="https://www.cufonfonts.com/download/font/sf-mono" title="Download SF Mono">SF Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-136-sf-mono"  name="font-136-sf-mono"></a>136 - <a href="https://www.cufonfonts.com/download/font/sf-mono" title="Download SF Mono">SF Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=SF%20Mono%20font" title="Search with Google: SF Mono font" alt="Search with Google: SF Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4562,7 +4557,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-137-sk-modernist-mono"  name="font-137-sk-modernist-mono"></a>137 - <a href="https://fontsme.com/sk-modernist.font" title="Download SK-Modernist Mono">SK-Modernist Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-137-sk-modernist-mono"  name="font-137-sk-modernist-mono"></a>137 - <a href="https://fontsme.com/sk-modernist.font" title="Download SK-Modernist Mono">SK-Modernist Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=SK-Modernist%20Mono%20font" title="Search with Google: SK-Modernist Mono font" alt="Search with Google: SK-Modernist Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4583,7 +4578,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-138-sabir-mono"  name="font-138-sabir-mono"></a>138 - <a href="https://fontesk.com/sabir-mono-font/" title="Download Sabir Mono">Sabir Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-138-sabir-mono"  name="font-138-sabir-mono"></a>138 - <a href="https://fontesk.com/sabir-mono-font/" title="Download Sabir Mono">Sabir Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Sabir%20Mono%20font" title="Search with Google: Sabir Mono font" alt="Search with Google: Sabir Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4604,7 +4599,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-139-segoe-mono-boot"  name="font-139-segoe-mono-boot"></a>139 - <a href="https://candyfonts.com/font/segoe-mono-boot.htm" title="Download Segoe Mono Boot">Segoe Mono Boot</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;]</span></div>
+<a id="font-139-segoe-mono-boot"  name="font-139-segoe-mono-boot"></a>139 - <a href="https://candyfonts.com/font/segoe-mono-boot.htm" title="Download Segoe Mono Boot">Segoe Mono Boot</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Segoe%20Mono%20Boot%20font" title="Search with Google: Segoe Mono Boot font" alt="Search with Google: Segoe Mono Boot font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4625,7 +4620,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-140-share-tech-mono"  name="font-140-share-tech-mono"></a>140 - <a href="https://fonts.google.com/specimen/Share+Tech+Mono?category=Monospace" title="Download Share Tech Mono">Share Tech Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-140-share-tech-mono"  name="font-140-share-tech-mono"></a>140 - <a href="https://fonts.google.com/specimen/Share+Tech+Mono?category=Monospace" title="Download Share Tech Mono">Share Tech Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Share%20Tech%20Mono%20font" title="Search with Google: Share Tech Mono font" alt="Search with Google: Share Tech Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4646,7 +4641,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-141-silka-mono"  name="font-141-silka-mono"></a>141 - <a href="https://www.atipofoundry.com/fonts/silka-mono" title="Download Silka Mono">Silka Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-141-silka-mono"  name="font-141-silka-mono"></a>141 - <a href="https://www.atipofoundry.com/fonts/silka-mono" title="Download Silka Mono">Silka Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Silka%20Mono%20font" title="Search with Google: Silka Mono font" alt="Search with Google: Silka Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.8</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4667,7 +4662,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-142-sometype-mono"  name="font-142-sometype-mono"></a>142 - <a href="https://monospacedfont.com/" title="Download Sometype Mono">Sometype Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-142-sometype-mono"  name="font-142-sometype-mono"></a>142 - <a href="https://monospacedfont.com/" title="Download Sometype Mono">Sometype Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Sometype%20Mono%20font" title="Search with Google: Sometype Mono font" alt="Search with Google: Sometype Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4688,7 +4683,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-143-source-code-pro"  name="font-143-source-code-pro"></a>143 - <a href="https://fonts.google.com/specimen/Source+Code+Pro" title="Download Source Code Pro">Source Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-143-source-code-pro"  name="font-143-source-code-pro"></a>143 - <a href="https://fonts.google.com/specimen/Source+Code+Pro" title="Download Source Code Pro">Source Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Source%20Code%20Pro%20font" title="Search with Google: Source Code Pro font" alt="Search with Google: Source Code Pro font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4709,7 +4704,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-144-space-mono"  name="font-144-space-mono"></a>144 - <a href="https://www.fontsc.com/font/download/space-mono" title="Download Space Mono">Space Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-144-space-mono"  name="font-144-space-mono"></a>144 - <a href="https://www.fontsc.com/font/download/space-mono" title="Download Space Mono">Space Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Space%20Mono%20font" title="Search with Google: Space Mono font" alt="Search with Google: Space Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4730,7 +4725,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-145-sudo"  name="font-145-sudo"></a>145 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Sudo">Sudo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-145-sudo"  name="font-145-sudo"></a>145 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Sudo">Sudo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Sudo%20font" title="Search with Google: Sudo font" alt="Search with Google: Sudo font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >3.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4751,7 +4746,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-146-terminus-ttf-for-windows"  name="font-146-terminus-ttf-for-windows"></a>146 - <a href="https://files.ax86.net/terminus-ttf/" title="Download Terminus (TTF) for Windows">Terminus (TTF) for Windows</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-146-terminus-ttf-for-windows"  name="font-146-terminus-ttf-for-windows"></a>146 - <a href="https://files.ax86.net/terminus-ttf/" title="Download Terminus (TTF) for Windows">Terminus (TTF) for Windows</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Terminus%20%28TTF%29%20for%20Windows%20font" title="Search with Google: Terminus (TTF) for Windows font" alt="Search with Google: Terminus (TTF) for Windows font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4772,7 +4767,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-147-ti92pluspc"  name="font-147-ti92pluspc"></a>147 - <a href="https://fontsgeek.com/fonts/Ti92Pluspc-Regular" title="Download Ti92Pluspc">Ti92Pluspc</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-147-ti92pluspc"  name="font-147-ti92pluspc"></a>147 - <a href="https://fontsgeek.com/fonts/Ti92Pluspc-Regular" title="Download Ti92Pluspc">Ti92Pluspc</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Ti92Pluspc%20font" title="Search with Google: Ti92Pluspc font" alt="Search with Google: Ti92Pluspc font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4793,7 +4788,7 @@ Rec Mono Linear: Recursive Family Font
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-148-ubuntu-mono"  name="font-148-ubuntu-mono"></a>148 - <a href="https://www.fontsquirrel.com/fonts/ubuntu-mono" title="Download Ubuntu Mono">Ubuntu Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-148-ubuntu-mono"  name="font-148-ubuntu-mono"></a>148 - <a href="https://www.fontsquirrel.com/fonts/ubuntu-mono" title="Download Ubuntu Mono">Ubuntu Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Ubuntu%20Mono%20font" title="Search with Google: Ubuntu Mono font" alt="Search with Google: Ubuntu Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4818,7 +4813,7 @@ Ubuntu Mono: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-149-ubuntu-mono---bront"  name="font-149-ubuntu-mono---bront"></a>149 - <a href="https://github.com/chrismwendt/bront" title="Download Ubuntu Mono - Bront">Ubuntu Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-149-ubuntu-mono---bront"  name="font-149-ubuntu-mono---bront"></a>149 - <a href="https://github.com/chrismwendt/bront" title="Download Ubuntu Mono - Bront">Ubuntu Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Ubuntu%20Mono%20-%20Bront%20font" title="Search with Google: Ubuntu Mono - Bront font" alt="Search with Google: Ubuntu Mono - Bront font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.5</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4843,7 +4838,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-150-victor-mono"  name="font-150-victor-mono"></a>150 - <a href="https://rubjo.github.io/victor-mono" title="Download Victor Mono">Victor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-150-victor-mono"  name="font-150-victor-mono"></a>150 - <a href="https://rubjo.github.io/victor-mono" title="Download Victor Mono">Victor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Victor%20Mono%20font" title="Search with Google: Victor Mono font" alt="Search with Google: Victor Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;|&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;|&nbsp;<span title="Font is Serif" >&#120450;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4899,7 +4894,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-151-whois-mono"  name="font-151-whois-mono"></a>151 - <a href="https://github.com/raphaelbastide/Whois-mono/blob/master/whois-mono.ttf" title="Download Whois Mono">Whois Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-151-whois-mono"  name="font-151-whois-mono"></a>151 - <a href="https://github.com/raphaelbastide/Whois-mono/blob/master/whois-mono.ttf" title="Download Whois Mono">Whois Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=Whois%20Mono%20font" title="Search with Google: Whois Mono font" alt="Search with Google: Whois Mono font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4920,7 +4915,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-152-ia-writer-duospace"  name="font-152-ia-writer-duospace"></a>152 - <a href="https://ia.net/downloads#fonts" title="Download iA Writer Duospace">iA Writer Duospace</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-152-ia-writer-duospace"  name="font-152-ia-writer-duospace"></a>152 - <a href="https://ia.net/downloads#fonts" title="Download iA Writer Duospace">iA Writer Duospace</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=iA%20Writer%20Duospace%20font" title="Search with Google: iA Writer Duospace font" alt="Search with Google: iA Writer Duospace font">&#127350;</a>&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >4.0</span>&nbsp;|&nbsp;<span style="color:ForestGreen;">&#9752;</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -4941,7 +4936,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;">
 <div>
-<a id="font-153-ia-writer-mono-s"  name="font-153-ia-writer-mono-s"></a>153 - <a href="https://ia.net/downloads#fonts" title="Download iA Writer Mono S">iA Writer Mono S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
+<a id="font-153-ia-writer-mono-s"  name="font-153-ia-writer-mono-s"></a>153 - <a href="https://ia.net/downloads#fonts" title="Download iA Writer Mono S">iA Writer Mono S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<a href="https://www.google.it/search?q=iA%20Writer%20Mono%20S%20font" title="Search with Google: iA Writer Mono S font" alt="Search with Google: iA Writer Mono S font">&#127350;</a>&nbsp;|&nbsp;&#11088;&nbsp;|&nbsp;<span title="Font Readability at Size `10px`" >5.0</span>&nbsp;|&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&#216;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -5011,7 +5006,7 @@ These variants has a dark gray cold/flat/warm backgrounds (based on the theme yo
 
 # About my PHP Script **VSCode Themes Master**
 
-> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-14 20:02:02
+> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-15 02:01:34
 
 The `Zenburn Cold Gray` prototype was initially a manual editing of the VSCode settings and some tokens, based on the `Zenburn` theme porting from `Eclipse IDE` (see below the thanks, to the paragraph `Gratitude`) in conjunction with the background of the `DevStyle` extension for Eclipse IDE.
 

@@ -2,7 +2,7 @@
 
 ## `Zenburn Dark Matter` Theme Change Log 
 
-> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-14 20:02:02
+> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-15 02:01:34
 
 > Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
 
@@ -10,7 +10,7 @@
 
 **Last added fonts**
 
-> Note: Fonts marked with a symbol &#11088; have a high readability at `10px`, or have a size of `9px`/`11px` such as to occupy the space of common fonts at `10px` and always guarantee high readability.
+> Note: Fonts marked with a symbol &#11088; have a high readability at `10px`, or have a size of `9px`-`12px` such as to occupy the space of common fonts at `10px` and always guarantee high readability.
 
 - **2021/08/14**
 
@@ -83,6 +83,10 @@
 
 
 ## [1.1.196]
+
+- [`Readme`] Improved `Fonts Table`: added **Google Search** button (&#127350;) (if the link for the font page no longer works) and added information if the font is `Bitmap` (&#127345;);
+
+## [1.1.195]
 
 > I apologize to those of you who use the `HCUI` versions of the themes as you will have to set it up again due to the name change.
 
