@@ -1,8 +1,8 @@
-﻿
+
 
 ## `Zenburn Dark Matter` Theme Change Log 
 
-> Engine: **VSCode Themes Master** v. 1.12.222 - Update: 2021-08-15 20:57:55
+> Engine: **VSCode Themes Master** v. 1.12.253 - Update: 2022-04-21 14:31:55
 
 > Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
 
@@ -12,75 +12,27 @@
 
 > Note: Fonts marked with a symbol &#11088; have a high readability at `10px`, or have a size of `9px`-`12px` such as to occupy the space of common fonts at `10px` and always guarantee high readability.
 
-- **2021/08/14**
+- **2022/04/18**
 
-	1.  ['Anka/Coder '](https://fontlibrary.org/it/font/anka-coder "Download 'Anka/Coder '") 
-	1.  ['Anka/Coder Condensed'](https://fontlibrary.org/it/font/anka-coder-condensed "Download 'Anka/Coder Condensed'") &#11088;
-	1.  ['Anka/Coder Narrow'](https://fontlibrary.org/it/font/anka-coder-narrow "Download 'Anka/Coder Narrow'") &#11088;
-	1.  [APL385 Unicode](http://apl385.com/fonts/index.htm "Download APL385 Unicode") 
-	1.  [Caffeine Mono](https://fontesk.com/caffeine-mono-font/ "Download Caffeine Mono") 
-	1.  [Calling Code](https://fontesk.com/calling-code-font/ "Download Calling Code") &#11088;
-	1.  [Caskaydia Cove](https://fontesk.com/caskaydia-cove-typeface/ "Download Caskaydia Cove") 
-	1.  [Codee Sans Mono](https://fontesk.com/codee-sans-mono-font/ "Download Codee Sans Mono") 
-	1.  [Codetta](https://fontesk.com/codetta-typeface/ "Download Codetta") 
-	1.  [Comic Shanns Regular](https://github.com/shannpersand/comic-shanns "Download Comic Shanns Regular") 
-	1.  [Consolate Elf](https://www.cufonfonts.com/font/consolate-elf "Download Consolate Elf") 
-	1.  [Courier Prime](https://quoteunquoteapps.com/courierprime/downloads/courier-prime.zip "Download Courier Prime") 
-	1.  [Courier Prime Sans](https://quoteunquoteapps.com/courierprime/downloads/courier-prime-sans.zip "Download Courier Prime Sans") 
-	1.  [CozetteVector](https://github.com/slavfox/Cozette/releases "Download CozetteVector") &#11088;
-	1.  [Drafting Mono](https://fontesk.com/drafting-mono-typeface/ "Download Drafting Mono") 
-	1.  [Fairfax](http://www.kreativekorp.com/software/fonts/fairfax.shtml "Download Fairfax") &#11088;
-	1.  [Fairfax HD](http://www.kreativekorp.com/software/fonts/fairfaxhd.shtml "Download Fairfax HD") &#11088;
-	1.  [Fairfax Serif](http://www.kreativekorp.com/software/fonts/fairfax.shtml "Download Fairfax Serif") 
-	1.  [Lab Mono](https://fontesk.com/lab-mono-font/ "Download Lab Mono") 
-	1.  [MonacoB](https://github.com/vjpr/monaco-bold "Download MonacoB") 
-	1.  [NF Code](https://fontesk.com/nf-code/ "Download NF Code") 
-	1.  [Natural Mono](https://fontlibrary.org/it/font/natural-mono "Download Natural Mono") &#11088;
-	1.  [Natural Mono Alt](https://fontlibrary.org/it/font/natural-mono "Download Natural Mono Alt") &#11088;
-	1.  [Pointfree](https://code.google.com/archive/p/i3project/downloads "Download Pointfree") 
-	1.  [Sabir Mono](https://fontesk.com/sabir-mono-font/ "Download Sabir Mono") 
-	1.  [Segoe Mono Boot](https://candyfonts.com/font/segoe-mono-boot.htm "Download Segoe Mono Boot") 
-	1.  [Terminus (TTF) for Windows](https://files.ax86.net/terminus-ttf/ "Download Terminus (TTF) for Windows") &#11088;
-	1.  [Ti92Pluspc](https://fontsgeek.com/fonts/Ti92Pluspc-Regular "Download Ti92Pluspc") 
-
-
-- **2021/08/03**
-
-	1.  [Aurulent Sans Mono](https://www.dafont.com/aurulent-sans-mono.font "Download Aurulent Sans Mono") 
-	1.  [Bedstead](https://bjh21.me.uk/bedstead/ "Download Bedstead") 
-	1.  [Borg Sans Mono](https://github.com/marnen/borg-sans-mono/releases "Download Borg Sans Mono") &#11088;
-	1.  [D2Coding Ligature](https://github.com/naver/d2codingfont "Download D2Coding Ligature") &#11088;
-	1.  [Generic Mono II](https://www.download-free-fonts.com/details/91877/generic-mono-ii-regular "Download Generic Mono II") 
-	1.  [SK-Modernist Mono](https://fontsme.com/sk-modernist.font "Download SK-Modernist Mono") 
-
-
-- **2021/07/26**
-
-	1.  [Agave Regular](https://github.com/blobject/agave "Download Agave Regular") 
-	1.  [Basier Square Mono](https://www.atipofoundry.com/fonts/basier-mono "Download Basier Square Mono") 
-	1.  [Cispeo](https://fontsarena.com/cispeo-by-lucas-descroix/ "Download Cispeo") 
-	1.  [Panic Sans](https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans "Download Panic Sans") 
-	1.  [Rec Mono Linear](https://github.com/arrowtype/recursive/tree/main/fonts/ArrowType-Recursive-1.078/Recursive_Code/RecMonoLinear "Download Rec Mono Linear") 
-	1.  [Silka Mono](https://www.atipofoundry.com/fonts/silka-mono "Download Silka Mono") 
-
-
-- **2021/07/20**
-
-	1.  [Alma Mono](http://almamono.com/download/ "Download Alma Mono") 
-	1.  [Bergen Mono](https://allbestfonts.com/bergen-mono/ "Download Bergen Mono") 
-	1.  [Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono?category=Monospace "Download Cutive Mono") 
-	1.  [Drucifer](https://github.com/drucifer/drucifer-monospace "Download Drucifer") 
-	1.  [FreeMono](https://fontmeme.com/fonts/freemono-font/ "Download FreeMono") 
-	1.  [GT Pressura Mono](http://font2s.com/fonts/50932/ "Download GT Pressura Mono") 
-	1.  [Go Mono](https://www.fontmirror.com/go-mono/ "Download Go Mono") 
-	1.  [JuliaMono](https://juliamono.netlify.app/download/ "Download JuliaMono") &#11088;
-	1.  [Lotion](https://font.nina.coffee/ "Download Lotion") 
-	1.  [Onuava](https://www.urbanfonts.com/download?fid=9765&file=onuava.zip "Download Onuava") 
-	1.  [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono?category=Monospace "Download Share Tech Mono") 
-	1.  [iA Writer Duospace](https://ia.net/downloads#fonts "Download iA Writer Duospace") 
+	1.  [Ahamono](https://www.fontslots.com/ahamono-monospaced-typeface-font/ "Download Ahamono") 
+	1.  [Gohufont](https://github.com/koemaeda/gohufont-ttf "Download Gohufont") &#11088;
+	1.  [Pico-8 Dejavu Mono](https://github.com/juanitogan/p8-programming-fonts "Download Pico-8 Dejavu Mono") 
+	1.  [Tamzen](https://github.com/sunaku/tamzen-font/ "Download Tamzen") 
+	1.  [Unifont](http://unifoundry.com/unifont/index.html "Download Unifont") 
 
 
 
+
+## [1.1.199]
+- [`Theme`] Revised `HCUI` global color parameters (less saturation and opacity) to obtain more contrast on hover / active elements.
+- [`Theme`] `Dark Matter` Suite: revised the `menu foreground` configuration array parameters due to some sequential colorimetric calculations that had generated too bright and light colors;;
+- [`Theme`] Revised `inactive foreground` and `focused/unfocused active/inactive foreground` `focused/unfocused active/inactive bacgrounds` and  colors for all standard themes to improve readability on a wider range of monitors.
+- [`Readme`] Improved `Fonts Table`: added **Font Preview** button (&#127349;). At this time system uses [ProgrammingFonts.org](https://www.programmingfonts.org/) to show font appearance, but not all fonts are presents on site. In the coming months I will try to create a site that offers the possibility to visually compare the various fonts in different sizes.
+- [`Readme`] Added some new fonts and revised options for script fonts to add in `settings.ini`;
+- [`Development`] Changed Badges Provider `vsmarketplacebadge.apphb.com` to `vsmarketplacebadges.dev`, due to a temporary badges issue.
+- [`Development`] Fixed `Fake UI` previews: gutter/line realignment, addedd "line with errors" and "file with errors" example, removed random position for `Welcome` page, increased "editor" height;
+- [`Development`] Improved `Statistics Table` readability;
+- [`Development`] Added `Down Major / Minor / Patch Ver.` to step down version of themes for testing.
 
 ## [1.1.196]
 
@@ -150,7 +102,7 @@
 
 - [`Theme`] Improved `editorBracketMatch` highlight color;
 - [`Development`] Addedd `editorBracketMatch` as independent from automatic colorization keywords;
-- [`Development`] Added Daily / Hourly / Delta foresights to statistics table;
+- [`Development`] Added Daily / Hourly / Delta foresights to `Statistics Table`;
 - [`Readme`] Added some new fonts: "Dank Mono", "Ginotronic", "Monego" family, "M+ 2m" Family, "Operator Mono Lig", "Monaco", "BPmono", "Bitstream Vera Sans Mono", "Luculent", "Whois mono", "NotCourierSans", "KawKab Mono", "Metrickal".
 
 ## [1.1.155]

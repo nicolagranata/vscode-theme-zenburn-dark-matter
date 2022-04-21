@@ -1,5 +1,5 @@
 {
-    "version": "1.1.196",
+    "version": "1.1.199",
     "publisher": "nicola-granata",
     "license": "MIT",
     "schema": "vscode://schemas/color-theme",
@@ -26,14 +26,14 @@
         "zenburn",
         "dark background",
         "dark theme",
-        "low blue light",
-        "low contrast",
         "json",
         "css",
-        "eye strain",
         "html",
         "php",
-        "javascript"
+        "javascript",
+        "low blue light",
+        "low contrast",
+        "eye strain"
     ],
     "galleryBanner": {
         "color": "#191d1f",
